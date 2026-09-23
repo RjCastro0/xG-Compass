@@ -1,0 +1,1753 @@
+liga,jornada,equipo_local,equipo_visitante,fecha_programada
+La Liga,1,Alavés,Getafe,2026-08-15
+La Liga,1,Sevilla,Rayo Vallecano,2026-08-15
+La Liga,1,Espanyol,Levante,2026-08-16
+La Liga,1,Racing de Santander,Villarreal,2026-08-16
+La Liga,1,RC Deportivo,Elche,2026-08-17
+La Liga,1,Atlético de Madrid,Málaga,2026-08-19
+La Liga,1,Valencia,Real Betis,2026-08-25
+La Liga,1,Real Madrid,Real Sociedad,2026-08-26
+La Liga,1,Barcelona,Athletic Club,2026-08-27
+La Liga,1,Celta de Vigo,Osasuna,2026-08-27
+La Liga,2,Rayo Vallecano,Alavés,2026-08-20
+La Liga,2,Real Betis,Real Sociedad,2026-08-21
+La Liga,2,Athletic Club,Sevilla,2026-08-22
+La Liga,2,Espanyol,Real Madrid,2026-08-22
+La Liga,2,Valencia,Celta de Vigo,2026-08-22
+La Liga,2,Atlético de Madrid,Villarreal,2026-08-23
+La Liga,2,Elche,Barcelona,2026-08-23
+La Liga,2,Getafe,Racing de Santander,2026-08-23
+La Liga,2,Málaga,RC Deportivo,2026-08-24
+La Liga,2,Osasuna,Levante,2026-08-24
+La Liga,3,Alavés,Villarreal,2026-08-28
+La Liga,3,Racing de Santander,Elche,2026-08-28
+La Liga,3,Levante,Real Betis,2026-08-29
+La Liga,3,Real Sociedad,Espanyol,2026-08-29
+La Liga,3,Sevilla,Atlético de Madrid,2026-08-29
+La Liga,3,Celta de Vigo,Athletic Club,2026-08-30
+La Liga,3,RC Deportivo,Valencia,2026-08-30
+La Liga,3,Real Madrid,Málaga,2026-08-30
+La Liga,3,Barcelona,Rayo Vallecano,2026-08-31
+La Liga,3,Osasuna,Getafe,2026-08-31
+La Liga,4,Real Betis,Real Madrid,2026-09-04
+La Liga,4,Athletic Club,Atlético de Madrid,2026-09-05
+La Liga,4,Rayo Vallecano,Racing de Santander,2026-09-05
+La Liga,4,Villarreal,RC Deportivo,2026-09-05
+La Liga,4,Alavés,Osasuna,2026-09-06
+La Liga,4,Espanyol,Sevilla,2026-09-06
+La Liga,4,Málaga,Levante,2026-09-06
+La Liga,4,Valencia,Barcelona,2026-09-06
+La Liga,4,Elche,Real Sociedad,2026-09-07
+La Liga,4,Getafe,Celta de Vigo,2026-09-07
+La Liga,5,Sevilla,Valencia,2026-09-11
+La Liga,5,Athletic Club,Elche,2026-09-12
+La Liga,5,Osasuna,Espanyol,2026-09-12
+La Liga,5,Racing de Santander,Alavés,2026-09-12
+La Liga,5,Real Madrid,Rayo Vallecano,2026-09-12
+La Liga,5,Celta de Vigo,Málaga,2026-09-13
+La Liga,5,Getafe,RC Deportivo,2026-09-13
+La Liga,5,Levante,Barcelona,2026-09-13
+La Liga,5,Real Sociedad,Atlético de Madrid,2026-09-13
+La Liga,5,Villarreal,Real Betis,2026-09-14
+La Liga,6,Real Sociedad,Celta de Vigo,2026-09-03
+La Liga,6,Alavés,Valencia,2026-09-15
+La Liga,6,Elche,Real Madrid,2026-09-15
+La Liga,6,Rayo Vallecano,Espanyol,2026-09-15
+La Liga,6,Atlético de Madrid,Osasuna,2026-09-16
+La Liga,6,Barcelona,Racing de Santander,2026-09-16
+La Liga,6,RC Deportivo,Sevilla,2026-09-16
+La Liga,6,Málaga,Villarreal,2026-09-17
+La Liga,6,Real Betis,Getafe,2026-09-17
+La Liga,6,Levante,Athletic Club,2026-10-21
+La Liga,7,Espanyol,Elche,2026-09-18
+La Liga,7,Athletic Club,Alavés,2026-09-19
+La Liga,7,Celta de Vigo,Racing de Santander,2026-09-19
+La Liga,7,Osasuna,Rayo Vallecano,2026-09-19
+La Liga,7,Sevilla,Barcelona,2026-09-19
+La Liga,7,Atlético de Madrid,Real Madrid,2026-09-20
+La Liga,7,Getafe,Málaga,2026-09-20
+La Liga,7,RC Deportivo,Real Betis,2026-09-20
+La Liga,7,Valencia,Real Sociedad,2026-09-20
+La Liga,7,Villarreal,Levante,2026-09-20
+La Liga,8,Málaga,Espanyol,2026-10-09
+La Liga,8,Alavés,Atlético de Madrid,2026-10-10
+La Liga,8,Barcelona,Getafe,2026-10-10
+La Liga,8,Rayo Vallecano,Athletic Club,2026-10-10
+La Liga,8,Real Madrid,Villarreal,2026-10-10
+La Liga,8,Elche,Celta de Vigo,2026-10-11
+La Liga,8,Racing de Santander,Valencia,2026-10-11
+La Liga,8,Real Betis,Osasuna,2026-10-11
+La Liga,8,Real Sociedad,RC Deportivo,2026-10-11
+La Liga,8,Levante,Sevilla,2026-10-12
+La Liga,9,RC Deportivo,Levante,2026-10-16
+La Liga,9,Espanyol,Atlético de Madrid,2026-10-17
+La Liga,9,Real Betis,Barcelona,2026-10-17
+La Liga,9,Valencia,Athletic Club,2026-10-17
+La Liga,9,Villarreal,Elche,2026-10-17
+La Liga,9,Celta de Vigo,Alavés,2026-10-18
+La Liga,9,Málaga,Real Sociedad,2026-10-18
+La Liga,9,Osasuna,Racing de Santander,2026-10-18
+La Liga,9,Real Madrid,Sevilla,2026-10-18
+La Liga,9,Getafe,Rayo Vallecano,2026-10-19
+La Liga,10,Alavés,Málaga,2026-10-25
+La Liga,10,Athletic Club,Getafe,2026-10-25
+La Liga,10,Atlético de Madrid,RC Deportivo,2026-10-25
+La Liga,10,Barcelona,Real Madrid,2026-10-25
+La Liga,10,Celta de Vigo,Real Betis,2026-10-25
+La Liga,10,Racing de Santander,Espanyol,2026-10-25
+La Liga,10,Rayo Vallecano,Elche,2026-10-25
+La Liga,10,Real Sociedad,Levante,2026-10-25
+La Liga,10,Sevilla,Osasuna,2026-10-25
+La Liga,10,Valencia,Villarreal,2026-10-25
+La Liga,11,Athletic Club,Real Sociedad,2026-11-01
+La Liga,11,Barcelona,Alavés,2026-11-01
+La Liga,11,Elche,Valencia,2026-11-01
+La Liga,11,Getafe,Sevilla,2026-11-01
+La Liga,11,Levante,Atlético de Madrid,2026-11-01
+La Liga,11,RC Deportivo,Osasuna,2026-11-01
+La Liga,11,Racing de Santander,Real Madrid,2026-11-01
+La Liga,11,Rayo Vallecano,Celta de Vigo,2026-11-01
+La Liga,11,Real Betis,Málaga,2026-11-01
+La Liga,11,Villarreal,Espanyol,2026-11-01
+La Liga,12,Atlético de Madrid,Barcelona,2026-11-08
+La Liga,12,Celta de Vigo,Levante,2026-11-08
+La Liga,12,Elche,Real Betis,2026-11-08
+La Liga,12,Espanyol,RC Deportivo,2026-11-08
+La Liga,12,Málaga,Racing de Santander,2026-11-08
+La Liga,12,Osasuna,Athletic Club,2026-11-08
+La Liga,12,Real Sociedad,Rayo Vallecano,2026-11-08
+La Liga,12,Sevilla,Alavés,2026-11-08
+La Liga,12,Valencia,Real Madrid,2026-11-08
+La Liga,12,Villarreal,Getafe,2026-11-08
+La Liga,13,Alavés,RC Deportivo,2026-11-22
+La Liga,13,Athletic Club,Espanyol,2026-11-22
+La Liga,13,Barcelona,Villarreal,2026-11-22
+La Liga,13,Getafe,Atlético de Madrid,2026-11-22
+La Liga,13,Levante,Elche,2026-11-22
+La Liga,13,Osasuna,Málaga,2026-11-22
+La Liga,13,Racing de Santander,Real Sociedad,2026-11-22
+La Liga,13,Rayo Vallecano,Valencia,2026-11-22
+La Liga,13,Real Madrid,Celta de Vigo,2026-11-22
+La Liga,13,Sevilla,Real Betis,2026-11-22
+La Liga,14,Celta de Vigo,Villarreal,2026-11-29
+La Liga,14,Elche,Atlético de Madrid,2026-11-29
+La Liga,14,Espanyol,Getafe,2026-11-29
+La Liga,14,Levante,Racing de Santander,2026-11-29
+La Liga,14,Málaga,Athletic Club,2026-11-29
+La Liga,14,RC Deportivo,Barcelona,2026-11-29
+La Liga,14,Real Betis,Rayo Vallecano,2026-11-29
+La Liga,14,Real Madrid,Alavés,2026-11-29
+La Liga,14,Real Sociedad,Sevilla,2026-11-29
+La Liga,14,Valencia,Osasuna,2026-11-29
+La Liga,15,Alavés,Espanyol,2026-12-06
+La Liga,15,Athletic Club,Real Madrid,2026-12-06
+La Liga,15,Atlético de Madrid,Real Betis,2026-12-06
+La Liga,15,Barcelona,Celta de Vigo,2026-12-06
+La Liga,15,Getafe,Valencia,2026-12-06
+La Liga,15,Osasuna,Elche,2026-12-06
+La Liga,15,Racing de Santander,RC Deportivo,2026-12-06
+La Liga,15,Rayo Vallecano,Levante,2026-12-06
+La Liga,15,Sevilla,Málaga,2026-12-06
+La Liga,15,Villarreal,Real Sociedad,2026-12-06
+La Liga,16,Atlético de Madrid,Valencia,2026-12-13
+La Liga,16,Elche,Sevilla,2026-12-13
+La Liga,16,Espanyol,Celta de Vigo,2026-12-13
+La Liga,16,Levante,Alavés,2026-12-13
+La Liga,16,Málaga,Barcelona,2026-12-13
+La Liga,16,RC Deportivo,Athletic Club,2026-12-13
+La Liga,16,Real Betis,Racing de Santander,2026-12-13
+La Liga,16,Real Madrid,Osasuna,2026-12-13
+La Liga,16,Real Sociedad,Getafe,2026-12-13
+La Liga,16,Villarreal,Rayo Vallecano,2026-12-13
+La Liga,17,Alavés,Elche,2026-12-20
+La Liga,17,Athletic Club,Real Betis,2026-12-20
+La Liga,17,Barcelona,Real Sociedad,2026-12-20
+La Liga,17,Celta de Vigo,Atlético de Madrid,2026-12-20
+La Liga,17,Getafe,Levante,2026-12-20
+La Liga,17,Osasuna,Villarreal,2026-12-20
+La Liga,17,RC Deportivo,Real Madrid,2026-12-20
+La Liga,17,Rayo Vallecano,Málaga,2026-12-20
+La Liga,17,Sevilla,Racing de Santander,2026-12-20
+La Liga,17,Valencia,Espanyol,2026-12-20
+La Liga,18,Celta de Vigo,RC Deportivo,2027-01-03
+La Liga,18,Espanyol,Barcelona,2027-01-03
+La Liga,18,Levante,Valencia,2027-01-03
+La Liga,18,Málaga,Elche,2027-01-03
+La Liga,18,Racing de Santander,Athletic Club,2027-01-03
+La Liga,18,Rayo Vallecano,Atlético de Madrid,2027-01-03
+La Liga,18,Real Betis,Alavés,2027-01-03
+La Liga,18,Real Madrid,Getafe,2027-01-03
+La Liga,18,Real Sociedad,Osasuna,2027-01-03
+La Liga,18,Villarreal,Sevilla,2027-01-03
+La Liga,19,Alavés,Real Sociedad,2027-01-10
+La Liga,19,Athletic Club,Villarreal,2027-01-10
+La Liga,19,Atlético de Madrid,Racing de Santander,2027-01-10
+La Liga,19,Elche,Getafe,2027-01-10
+La Liga,19,Espanyol,Real Betis,2027-01-10
+La Liga,19,Osasuna,Barcelona,2027-01-10
+La Liga,19,RC Deportivo,Rayo Vallecano,2027-01-10
+La Liga,19,Real Madrid,Levante,2027-01-10
+La Liga,19,Sevilla,Celta de Vigo,2027-01-10
+La Liga,19,Valencia,Málaga,2027-01-10
+La Liga,20,Atlético de Madrid,Real Sociedad,2027-01-17
+La Liga,20,Barcelona,Elche,2027-01-17
+La Liga,20,Celta de Vigo,Valencia,2027-01-17
+La Liga,20,Getafe,Athletic Club,2027-01-17
+La Liga,20,Levante,Espanyol,2027-01-17
+La Liga,20,Málaga,Real Madrid,2027-01-17
+La Liga,20,Racing de Santander,Osasuna,2027-01-17
+La Liga,20,Rayo Vallecano,Sevilla,2027-01-17
+La Liga,20,Real Betis,RC Deportivo,2027-01-17
+La Liga,20,Villarreal,Alavés,2027-01-17
+La Liga,21,Alavés,Barcelona,2027-01-24
+La Liga,21,Athletic Club,Levante,2027-01-24
+La Liga,21,Elche,Rayo Vallecano,2027-01-24
+La Liga,21,Espanyol,Villarreal,2027-01-24
+La Liga,21,Getafe,Osasuna,2027-01-24
+La Liga,21,RC Deportivo,Atlético de Madrid,2027-01-24
+La Liga,21,Racing de Santander,Celta de Vigo,2027-01-24
+La Liga,21,Real Madrid,Real Betis,2027-01-24
+La Liga,21,Real Sociedad,Málaga,2027-01-24
+La Liga,21,Valencia,Sevilla,2027-01-24
+La Liga,22,Atlético de Madrid,Espanyol,2027-01-31
+La Liga,22,Barcelona,Valencia,2027-01-31
+La Liga,22,Celta de Vigo,Getafe,2027-01-31
+La Liga,22,Levante,Real Sociedad,2027-01-31
+La Liga,22,Málaga,Alavés,2027-01-31
+La Liga,22,Osasuna,RC Deportivo,2027-01-31
+La Liga,22,Rayo Vallecano,Real Madrid,2027-01-31
+La Liga,22,Real Betis,Elche,2027-01-31
+La Liga,22,Sevilla,Athletic Club,2027-01-31
+La Liga,22,Villarreal,Racing de Santander,2027-01-31
+La Liga,23,Alavés,Celta de Vigo,2027-02-07
+La Liga,23,Athletic Club,Osasuna,2027-02-07
+La Liga,23,Barcelona,Atlético de Madrid,2027-02-07
+La Liga,23,Elche,Levante,2027-02-07
+La Liga,23,Espanyol,Rayo Vallecano,2027-02-07
+La Liga,23,Getafe,Villarreal,2027-02-07
+La Liga,23,RC Deportivo,Málaga,2027-02-07
+La Liga,23,Real Betis,Sevilla,2027-02-07
+La Liga,23,Real Sociedad,Real Madrid,2027-02-07
+La Liga,23,Valencia,Racing de Santander,2027-02-07
+La Liga,24,Celta de Vigo,Rayo Vallecano,2027-02-14
+La Liga,24,Elche,RC Deportivo,2027-02-14
+La Liga,24,Levante,Málaga,2027-02-14
+La Liga,24,Osasuna,Atlético de Madrid,2027-02-14
+La Liga,24,Racing de Santander,Getafe,2027-02-14
+La Liga,24,Real Madrid,Athletic Club,2027-02-14
+La Liga,24,Real Sociedad,Real Betis,2027-02-14
+La Liga,24,Sevilla,Espanyol,2027-02-14
+La Liga,24,Valencia,Alavés,2027-02-14
+La Liga,24,Villarreal,Barcelona,2027-02-14
+La Liga,25,Alavés,Racing de Santander,2027-02-21
+La Liga,25,Athletic Club,Celta de Vigo,2027-02-21
+La Liga,25,Atlético de Madrid,Elche,2027-02-21
+La Liga,25,Barcelona,Levante,2027-02-21
+La Liga,25,Espanyol,Osasuna,2027-02-21
+La Liga,25,Málaga,Real Betis,2027-02-21
+La Liga,25,RC Deportivo,Real Sociedad,2027-02-21
+La Liga,25,Rayo Vallecano,Getafe,2027-02-21
+La Liga,25,Sevilla,Real Madrid,2027-02-21
+La Liga,25,Villarreal,Valencia,2027-02-21
+La Liga,26,Athletic Club,Barcelona,2027-02-28
+La Liga,26,Celta de Vigo,Espanyol,2027-02-28
+La Liga,26,Getafe,Alavés,2027-02-28
+La Liga,26,Levante,RC Deportivo,2027-02-28
+La Liga,26,Málaga,Atlético de Madrid,2027-02-28
+La Liga,26,Osasuna,Sevilla,2027-02-28
+La Liga,26,Racing de Santander,Rayo Vallecano,2027-02-28
+La Liga,26,Real Betis,Villarreal,2027-02-28
+La Liga,26,Real Madrid,Valencia,2027-02-28
+La Liga,26,Real Sociedad,Elche,2027-02-28
+La Liga,27,Alavés,Athletic Club,2027-03-07
+La Liga,27,Atlético de Madrid,Celta de Vigo,2027-03-07
+La Liga,27,Barcelona,Real Betis,2027-03-07
+La Liga,27,Elche,Málaga,2027-03-07
+La Liga,27,Espanyol,Racing de Santander,2027-03-07
+La Liga,27,RC Deportivo,Getafe,2027-03-07
+La Liga,27,Rayo Vallecano,Osasuna,2027-03-07
+La Liga,27,Sevilla,Real Sociedad,2027-03-07
+La Liga,27,Valencia,Levante,2027-03-07
+La Liga,27,Villarreal,Real Madrid,2027-03-07
+La Liga,28,Alavés,Sevilla,2027-03-14
+La Liga,28,Athletic Club,Valencia,2027-03-14
+La Liga,28,Barcelona,RC Deportivo,2027-03-14
+La Liga,28,Elche,Villarreal,2027-03-14
+La Liga,28,Getafe,Real Sociedad,2027-03-14
+La Liga,28,Málaga,Rayo Vallecano,2027-03-14
+La Liga,28,Osasuna,Celta de Vigo,2027-03-14
+La Liga,28,Racing de Santander,Atlético de Madrid,2027-03-14
+La Liga,28,Real Betis,Levante,2027-03-14
+La Liga,28,Real Madrid,Espanyol,2027-03-14
+La Liga,29,Atlético de Madrid,Getafe,2027-03-21
+La Liga,29,Celta de Vigo,Real Madrid,2027-03-21
+La Liga,29,Espanyol,Athletic Club,2027-03-21
+La Liga,29,Levante,Osasuna,2027-03-21
+La Liga,29,Racing de Santander,Real Betis,2027-03-21
+La Liga,29,Rayo Vallecano,Barcelona,2027-03-21
+La Liga,29,Real Sociedad,Alavés,2027-03-21
+La Liga,29,Sevilla,Elche,2027-03-21
+La Liga,29,Valencia,RC Deportivo,2027-03-21
+La Liga,29,Villarreal,Málaga,2027-03-21
+La Liga,30,Athletic Club,Racing de Santander,2027-04-04
+La Liga,30,Barcelona,Sevilla,2027-04-04
+La Liga,30,Elche,Alavés,2027-04-04
+La Liga,30,Getafe,Espanyol,2027-04-04
+La Liga,30,Levante,Rayo Vallecano,2027-04-04
+La Liga,30,Málaga,Osasuna,2027-04-04
+La Liga,30,RC Deportivo,Villarreal,2027-04-04
+La Liga,30,Real Betis,Celta de Vigo,2027-04-04
+La Liga,30,Real Madrid,Atlético de Madrid,2027-04-04
+La Liga,30,Real Sociedad,Valencia,2027-04-04
+La Liga,31,Alavés,Real Betis,2027-04-11
+La Liga,31,Atlético de Madrid,Levante,2027-04-11
+La Liga,31,Celta de Vigo,Elche,2027-04-11
+La Liga,31,Espanyol,Málaga,2027-04-11
+La Liga,31,Osasuna,Real Madrid,2027-04-11
+La Liga,31,Racing de Santander,Barcelona,2027-04-11
+La Liga,31,Rayo Vallecano,Real Sociedad,2027-04-11
+La Liga,31,Sevilla,RC Deportivo,2027-04-11
+La Liga,31,Valencia,Getafe,2027-04-11
+La Liga,31,Villarreal,Athletic Club,2027-04-11
+La Liga,32,Alavés,Rayo Vallecano,2027-04-18
+La Liga,32,Atlético de Madrid,Sevilla,2027-04-18
+La Liga,32,Barcelona,Espanyol,2027-04-18
+La Liga,32,Elche,Osasuna,2027-04-18
+La Liga,32,Getafe,Real Madrid,2027-04-18
+La Liga,32,Levante,Villarreal,2027-04-18
+La Liga,32,Málaga,Valencia,2027-04-18
+La Liga,32,RC Deportivo,Celta de Vigo,2027-04-18
+La Liga,32,Real Betis,Athletic Club,2027-04-18
+La Liga,32,Real Sociedad,Racing de Santander,2027-04-18
+La Liga,33,Athletic Club,RC Deportivo,2027-04-21
+La Liga,33,Celta de Vigo,Barcelona,2027-04-21
+La Liga,33,Espanyol,Real Sociedad,2027-04-21
+La Liga,33,Getafe,Real Betis,2027-04-21
+La Liga,33,Osasuna,Alavés,2027-04-21
+La Liga,33,Racing de Santander,Málaga,2027-04-21
+La Liga,33,Real Madrid,Elche,2027-04-21
+La Liga,33,Sevilla,Levante,2027-04-21
+La Liga,33,Valencia,Rayo Vallecano,2027-04-21
+La Liga,33,Villarreal,Atlético de Madrid,2027-04-21
+La Liga,34,Atlético de Madrid,Alavés,2027-05-02
+La Liga,34,Barcelona,Osasuna,2027-05-02
+La Liga,34,Celta de Vigo,Sevilla,2027-05-02
+La Liga,34,Elche,Espanyol,2027-05-02
+La Liga,34,Levante,Real Madrid,2027-05-02
+La Liga,34,Málaga,Getafe,2027-05-02
+La Liga,34,RC Deportivo,Racing de Santander,2027-05-02
+La Liga,34,Rayo Vallecano,Villarreal,2027-05-02
+La Liga,34,Real Betis,Valencia,2027-05-02
+La Liga,34,Real Sociedad,Athletic Club,2027-05-02
+La Liga,35,Alavés,Levante,2027-05-09
+La Liga,35,Athletic Club,Málaga,2027-05-09
+La Liga,35,Getafe,Elche,2027-05-09
+La Liga,35,Osasuna,Real Sociedad,2027-05-09
+La Liga,35,Racing de Santander,Sevilla,2027-05-09
+La Liga,35,Rayo Vallecano,RC Deportivo,2027-05-09
+La Liga,35,Real Betis,Espanyol,2027-05-09
+La Liga,35,Real Madrid,Barcelona,2027-05-09
+La Liga,35,Valencia,Atlético de Madrid,2027-05-09
+La Liga,35,Villarreal,Celta de Vigo,2027-05-09
+La Liga,36,Atlético de Madrid,Rayo Vallecano,2027-05-16
+La Liga,36,Elche,Athletic Club,2027-05-16
+La Liga,36,Espanyol,Valencia,2027-05-16
+La Liga,36,Levante,Getafe,2027-05-16
+La Liga,36,Málaga,Celta de Vigo,2027-05-16
+La Liga,36,Osasuna,Real Betis,2027-05-16
+La Liga,36,RC Deportivo,Alavés,2027-05-16
+La Liga,36,Real Madrid,Racing de Santander,2027-05-16
+La Liga,36,Real Sociedad,Barcelona,2027-05-16
+La Liga,36,Sevilla,Villarreal,2027-05-16
+La Liga,37,Alavés,Real Madrid,2027-05-23
+La Liga,37,Atlético de Madrid,Athletic Club,2027-05-23
+La Liga,37,Barcelona,Málaga,2027-05-23
+La Liga,37,Celta de Vigo,Real Sociedad,2027-05-23
+La Liga,37,RC Deportivo,Espanyol,2027-05-23
+La Liga,37,Racing de Santander,Levante,2027-05-23
+La Liga,37,Rayo Vallecano,Real Betis,2027-05-23
+La Liga,37,Sevilla,Getafe,2027-05-23
+La Liga,37,Valencia,Elche,2027-05-23
+La Liga,37,Villarreal,Osasuna,2027-05-23
+La Liga,38,Athletic Club,Rayo Vallecano,2027-05-30
+La Liga,38,Elche,Racing de Santander,2027-05-30
+La Liga,38,Espanyol,Alavés,2027-05-30
+La Liga,38,Getafe,Barcelona,2027-05-30
+La Liga,38,Levante,Celta de Vigo,2027-05-30
+La Liga,38,Málaga,Sevilla,2027-05-30
+La Liga,38,Osasuna,Valencia,2027-05-30
+La Liga,38,Real Betis,Atlético de Madrid,2027-05-30
+La Liga,38,Real Madrid,RC Deportivo,2027-05-30
+La Liga,38,Real Sociedad,Villarreal,2027-05-30
+Serie A,1,Genoa,Napoli,2026-08-22
+Serie A,1,Inter Milan,Monza,2026-08-22
+Serie A,1,Parma,Cagliari,2026-08-22
+Serie A,1,Udinese,Como,2026-08-22
+Serie A,1,Atalanta,Sassuolo,2026-08-23
+Serie A,1,Frosinone,Juventus,2026-08-23
+Serie A,1,Torino,AC Milan,2026-08-23
+Serie A,1,Venezia,Lecce,2026-08-23
+Serie A,1,AS Roma,Fiorentina,2026-08-24
+Serie A,1,Bologna,Lazio,2026-08-24
+Serie A,2,AC Milan,Venezia,2026-08-28
+Serie A,2,Fiorentina,Frosinone,2026-08-29
+Serie A,2,Juventus,Parma,2026-08-29
+Serie A,2,Monza,Udinese,2026-08-29
+Serie A,2,Sassuolo,Torino,2026-08-29
+Serie A,2,Cagliari,Inter Milan,2026-08-30
+Serie A,2,Lazio,Genoa,2026-08-30
+Serie A,2,Napoli,Como,2026-08-30
+Serie A,2,Atalanta,Bologna,2026-08-31
+Serie A,2,Lecce,AS Roma,2026-08-31
+Serie A,3,Genoa,Como,2026-09-04
+Serie A,3,AS Roma,Atalanta,2026-09-05
+Serie A,3,Fiorentina,Torino,2026-09-05
+Serie A,3,Inter Milan,Napoli,2026-09-05
+Serie A,3,Bologna,Sassuolo,2026-09-06
+Serie A,3,Frosinone,Venezia,2026-09-06
+Serie A,3,Juventus,AC Milan,2026-09-06
+Serie A,3,Parma,Monza,2026-09-06
+Serie A,3,Cagliari,Lecce,2026-09-07
+Serie A,3,Udinese,Lazio,2026-09-07
+Serie A,4,Venezia,Fiorentina,2026-09-11
+Serie A,4,Atalanta,Cagliari,2026-09-12
+Serie A,4,Genoa,Frosinone,2026-09-12
+Serie A,4,Lazio,AC Milan,2026-09-12
+Serie A,4,Lecce,Monza,2026-09-13
+Serie A,4,Napoli,Bologna,2026-09-13
+Serie A,4,Sassuolo,Juventus,2026-09-13
+Serie A,4,Como,Parma,2026-09-14
+Serie A,4,Inter Milan,Udinese,2026-09-14
+Serie A,4,Torino,AS Roma,2026-09-14
+Serie A,5,Monza,Sassuolo,2026-09-18
+Serie A,5,AS Roma,Inter Milan,2026-09-19
+Serie A,5,Bologna,Torino,2026-09-19
+Serie A,5,Udinese,Cagliari,2026-09-19
+Serie A,5,Venezia,Lazio,2026-09-19
+Serie A,5,AC Milan,Lecce,2026-09-20
+Serie A,5,Fiorentina,Napoli,2026-09-20
+Serie A,5,Frosinone,Como,2026-09-20
+Serie A,5,Juventus,Atalanta,2026-09-20
+Serie A,5,Parma,Genoa,2026-09-20
+Serie A,6,Genoa,Fiorentina,2026-10-10
+Serie A,6,Inter Milan,Parma,2026-10-10
+Serie A,6,Napoli,Frosinone,2026-10-10
+Serie A,6,Cagliari,Juventus,2026-10-11
+Serie A,6,Como,AS Roma,2026-10-11
+Serie A,6,Lazio,Monza,2026-10-11
+Serie A,6,Lecce,Bologna,2026-10-11
+Serie A,6,Sassuolo,AC Milan,2026-10-11
+Serie A,6,Atalanta,Venezia,2026-10-12
+Serie A,6,Torino,Udinese,2026-10-12
+Serie A,7,Frosinone,Sassuolo,2026-10-16
+Serie A,7,AS Roma,Genoa,2026-10-17
+Serie A,7,Bologna,Inter Milan,2026-10-17
+Serie A,7,Venezia,Napoli,2026-10-17
+Serie A,7,AC Milan,Atalanta,2026-10-18
+Serie A,7,Fiorentina,Como,2026-10-18
+Serie A,7,Juventus,Lazio,2026-10-18
+Serie A,7,Udinese,Lecce,2026-10-18
+Serie A,7,Monza,Cagliari,2026-10-19
+Serie A,7,Parma,Torino,2026-10-19
+Serie A,8,Torino,Monza,2026-10-23
+Serie A,8,Cagliari,Bologna,2026-10-24
+Serie A,8,Como,Sassuolo,2026-10-24
+Serie A,8,Lazio,Parma,2026-10-24
+Serie A,8,Napoli,AS Roma,2026-10-24
+Serie A,8,Atalanta,Frosinone,2026-10-25
+Serie A,8,Genoa,Venezia,2026-10-25
+Serie A,8,Inter Milan,Fiorentina,2026-10-25
+Serie A,8,Lecce,Juventus,2026-10-25
+Serie A,8,Udinese,AC Milan,2026-10-25
+Serie A,9,AS Roma,Cagliari,2026-10-27
+Serie A,9,Sassuolo,Lazio,2026-10-27
+Serie A,9,Torino,Como,2026-10-27
+Serie A,9,AC Milan,Bologna,2026-10-28
+Serie A,9,Genoa,Juventus,2026-10-28
+Serie A,9,Monza,Napoli,2026-10-28
+Serie A,9,Parma,Udinese,2026-10-28
+Serie A,9,Venezia,Inter Milan,2026-10-28
+Serie A,9,Fiorentina,Atalanta,2026-10-29
+Serie A,9,Frosinone,Lecce,2026-10-29
+Serie A,10,AC Milan,Inter Milan,2026-10-31
+Serie A,10,Bologna,Monza,2026-10-31
+Serie A,10,Udinese,AS Roma,2026-10-31
+Serie A,10,Como,Venezia,2026-11-01
+Serie A,10,Frosinone,Torino,2026-11-01
+Serie A,10,Juventus,Napoli,2026-11-01
+Serie A,10,Lazio,Cagliari,2026-11-01
+Serie A,10,Lecce,Genoa,2026-11-01
+Serie A,10,Atalanta,Parma,2026-11-02
+Serie A,10,Sassuolo,Fiorentina,2026-11-02
+Serie A,11,Venezia,Udinese,2026-11-06
+Serie A,11,AS Roma,Sassuolo,2026-11-07
+Serie A,11,Cagliari,Frosinone,2026-11-07
+Serie A,11,Parma,Bologna,2026-11-07
+Serie A,11,Torino,Lecce,2026-11-07
+Serie A,11,Fiorentina,Juventus,2026-11-08
+Serie A,11,Genoa,AC Milan,2026-11-08
+Serie A,11,Inter Milan,Como,2026-11-08
+Serie A,11,Monza,Atalanta,2026-11-08
+Serie A,11,Napoli,Lazio,2026-11-08
+Serie A,12,Como,Cagliari,2026-11-21
+Serie A,12,Lazio,Lecce,2026-11-21
+Serie A,12,Napoli,Torino,2026-11-21
+Serie A,12,Parma,AS Roma,2026-11-21
+Serie A,12,AC Milan,Frosinone,2026-11-22
+Serie A,12,Atalanta,Inter Milan,2026-11-22
+Serie A,12,Bologna,Udinese,2026-11-22
+Serie A,12,Sassuolo,Genoa,2026-11-22
+Serie A,12,Juventus,Venezia,2026-11-23
+Serie A,12,Monza,Fiorentina,2026-11-23
+Serie A,13,AS Roma,Monza,2026-11-29
+Serie A,13,Cagliari,AC Milan,2026-11-29
+Serie A,13,Como,Juventus,2026-11-29
+Serie A,13,Frosinone,Parma,2026-11-29
+Serie A,13,Inter Milan,Genoa,2026-11-29
+Serie A,13,Lecce,Atalanta,2026-11-29
+Serie A,13,Sassuolo,Napoli,2026-11-29
+Serie A,13,Torino,Lazio,2026-11-29
+Serie A,13,Udinese,Fiorentina,2026-11-29
+Serie A,13,Venezia,Bologna,2026-11-29
+Serie A,14,AC Milan,Parma,2026-12-06
+Serie A,14,Bologna,AS Roma,2026-12-06
+Serie A,14,Fiorentina,Cagliari,2026-12-06
+Serie A,14,Frosinone,Inter Milan,2026-12-06
+Serie A,14,Genoa,Torino,2026-12-06
+Serie A,14,Juventus,Udinese,2026-12-06
+Serie A,14,Lazio,Atalanta,2026-12-06
+Serie A,14,Monza,Como,2026-12-06
+Serie A,14,Napoli,Lecce,2026-12-06
+Serie A,14,Venezia,Sassuolo,2026-12-06
+Serie A,15,Atalanta,Genoa,2026-12-13
+Serie A,15,Cagliari,Venezia,2026-12-13
+Serie A,15,Como,Bologna,2026-12-13
+Serie A,15,Inter Milan,Torino,2026-12-13
+Serie A,15,Juventus,Monza,2026-12-13
+Serie A,15,Lazio,AS Roma,2026-12-13
+Serie A,15,Lecce,Sassuolo,2026-12-13
+Serie A,15,Napoli,AC Milan,2026-12-13
+Serie A,15,Parma,Fiorentina,2026-12-13
+Serie A,15,Udinese,Frosinone,2026-12-13
+Serie A,16,AC Milan,Como,2026-12-20
+Serie A,16,AS Roma,Juventus,2026-12-20
+Serie A,16,Atalanta,Napoli,2026-12-20
+Serie A,16,Fiorentina,Bologna,2026-12-20
+Serie A,16,Frosinone,Lazio,2026-12-20
+Serie A,16,Genoa,Udinese,2026-12-20
+Serie A,16,Lecce,Inter Milan,2026-12-20
+Serie A,16,Sassuolo,Parma,2026-12-20
+Serie A,16,Torino,Cagliari,2026-12-20
+Serie A,16,Venezia,Monza,2026-12-20
+Serie A,17,AS Roma,Frosinone,2027-01-03
+Serie A,17,Bologna,Juventus,2027-01-03
+Serie A,17,Cagliari,Genoa,2027-01-03
+Serie A,17,Como,Lecce,2027-01-03
+Serie A,17,Fiorentina,Lazio,2027-01-03
+Serie A,17,Inter Milan,Sassuolo,2027-01-03
+Serie A,17,Monza,AC Milan,2027-01-03
+Serie A,17,Parma,Napoli,2027-01-03
+Serie A,17,Torino,Venezia,2027-01-03
+Serie A,17,Udinese,Atalanta,2027-01-03
+Serie A,18,AC Milan,Fiorentina,2027-01-06
+Serie A,18,Atalanta,Como,2027-01-06
+Serie A,18,Frosinone,Bologna,2027-01-06
+Serie A,18,Genoa,Monza,2027-01-06
+Serie A,18,Juventus,Torino,2027-01-06
+Serie A,18,Lazio,Inter Milan,2027-01-06
+Serie A,18,Lecce,Parma,2027-01-06
+Serie A,18,Napoli,Cagliari,2027-01-06
+Serie A,18,Sassuolo,Udinese,2027-01-06
+Serie A,18,Venezia,AS Roma,2027-01-06
+Serie A,19,AS Roma,AC Milan,2027-01-10
+Serie A,19,Bologna,Genoa,2027-01-10
+Serie A,19,Cagliari,Sassuolo,2027-01-10
+Serie A,19,Como,Lazio,2027-01-10
+Serie A,19,Fiorentina,Lecce,2027-01-10
+Serie A,19,Inter Milan,Juventus,2027-01-10
+Serie A,19,Monza,Frosinone,2027-01-10
+Serie A,19,Parma,Venezia,2027-01-10
+Serie A,19,Torino,Atalanta,2027-01-10
+Serie A,19,Udinese,Napoli,2027-01-10
+Serie A,20,AC Milan,Torino,2027-01-17
+Serie A,20,Atalanta,AS Roma,2027-01-17
+Serie A,20,Cagliari,Como,2027-01-17
+Serie A,20,Juventus,Genoa,2027-01-17
+Serie A,20,Lazio,Bologna,2027-01-17
+Serie A,20,Lecce,Udinese,2027-01-17
+Serie A,20,Napoli,Fiorentina,2027-01-17
+Serie A,20,Parma,Inter Milan,2027-01-17
+Serie A,20,Sassuolo,Monza,2027-01-17
+Serie A,20,Venezia,Frosinone,2027-01-17
+Serie A,21,AS Roma,Udinese,2027-01-24
+Serie A,21,Bologna,Atalanta,2027-01-24
+Serie A,21,Como,Napoli,2027-01-24
+Serie A,21,Fiorentina,Sassuolo,2027-01-24
+Serie A,21,Frosinone,AC Milan,2027-01-24
+Serie A,21,Genoa,Parma,2027-01-24
+Serie A,21,Inter Milan,Venezia,2027-01-24
+Serie A,21,Juventus,Cagliari,2027-01-24
+Serie A,21,Lecce,Torino,2027-01-24
+Serie A,21,Monza,Lazio,2027-01-24
+Serie A,22,AC Milan,Juventus,2027-01-31
+Serie A,22,Atalanta,Fiorentina,2027-01-31
+Serie A,22,Cagliari,Parma,2027-01-31
+Serie A,22,Genoa,Lecce,2027-01-31
+Serie A,22,Lazio,Venezia,2027-01-31
+Serie A,22,Monza,AS Roma,2027-01-31
+Serie A,22,Napoli,Inter Milan,2027-01-31
+Serie A,22,Sassuolo,Como,2027-01-31
+Serie A,22,Torino,Frosinone,2027-01-31
+Serie A,22,Udinese,Bologna,2027-01-31
+Serie A,23,AS Roma,Torino,2027-02-07
+Serie A,23,Atalanta,Lazio,2027-02-07
+Serie A,23,Bologna,AC Milan,2027-02-07
+Serie A,23,Como,Monza,2027-02-07
+Serie A,23,Fiorentina,Udinese,2027-02-07
+Serie A,23,Inter Milan,Cagliari,2027-02-07
+Serie A,23,Juventus,Sassuolo,2027-02-07
+Serie A,23,Lecce,Napoli,2027-02-07
+Serie A,23,Parma,Frosinone,2027-02-07
+Serie A,23,Venezia,Genoa,2027-02-07
+Serie A,24,AS Roma,Parma,2027-02-14
+Serie A,24,Bologna,Como,2027-02-14
+Serie A,24,Cagliari,Lazio,2027-02-14
+Serie A,24,Frosinone,Fiorentina,2027-02-14
+Serie A,24,Genoa,Atalanta,2027-02-14
+Serie A,24,Inter Milan,AC Milan,2027-02-14
+Serie A,24,Monza,Lecce,2027-02-14
+Serie A,24,Napoli,Juventus,2027-02-14
+Serie A,24,Torino,Sassuolo,2027-02-14
+Serie A,24,Udinese,Venezia,2027-02-14
+Serie A,25,AC Milan,Genoa,2027-02-21
+Serie A,25,Atalanta,Monza,2027-02-21
+Serie A,25,Como,Torino,2027-02-21
+Serie A,25,Fiorentina,Inter Milan,2027-02-21
+Serie A,25,Juventus,Bologna,2027-02-21
+Serie A,25,Lazio,Napoli,2027-02-21
+Serie A,25,Lecce,Frosinone,2027-02-21
+Serie A,25,Sassuolo,AS Roma,2027-02-21
+Serie A,25,Udinese,Parma,2027-02-21
+Serie A,25,Venezia,Cagliari,2027-02-21
+Serie A,26,AS Roma,Venezia,2027-02-28
+Serie A,26,Bologna,Lecce,2027-02-28
+Serie A,26,Cagliari,Udinese,2027-02-28
+Serie A,26,Como,AC Milan,2027-02-28
+Serie A,26,Frosinone,Napoli,2027-02-28
+Serie A,26,Genoa,Lazio,2027-02-28
+Serie A,26,Inter Milan,Atalanta,2027-02-28
+Serie A,26,Monza,Juventus,2027-02-28
+Serie A,26,Parma,Sassuolo,2027-02-28
+Serie A,26,Torino,Fiorentina,2027-02-28
+Serie A,27,AC Milan,Cagliari,2027-03-07
+Serie A,27,Atalanta,Torino,2027-03-07
+Serie A,27,Fiorentina,Venezia,2027-03-07
+Serie A,27,Juventus,AS Roma,2027-03-07
+Serie A,27,Lazio,Frosinone,2027-03-07
+Serie A,27,Lecce,Como,2027-03-07
+Serie A,27,Monza,Genoa,2027-03-07
+Serie A,27,Napoli,Parma,2027-03-07
+Serie A,27,Sassuolo,Bologna,2027-03-07
+Serie A,27,Udinese,Inter Milan,2027-03-07
+Serie A,28,AC Milan,Sassuolo,2027-03-14
+Serie A,28,Bologna,Napoli,2027-03-14
+Serie A,28,Cagliari,Fiorentina,2027-03-14
+Serie A,28,Como,Udinese,2027-03-14
+Serie A,28,Frosinone,Monza,2027-03-14
+Serie A,28,Genoa,AS Roma,2027-03-14
+Serie A,28,Lazio,Juventus,2027-03-14
+Serie A,28,Parma,Lecce,2027-03-14
+Serie A,28,Torino,Inter Milan,2027-03-14
+Serie A,28,Venezia,Atalanta,2027-03-14
+Serie A,29,AS Roma,Lecce,2027-03-21
+Serie A,29,Atalanta,AC Milan,2027-03-21
+Serie A,29,Fiorentina,Genoa,2027-03-21
+Serie A,29,Inter Milan,Frosinone,2027-03-21
+Serie A,29,Juventus,Como,2027-03-21
+Serie A,29,Monza,Bologna,2027-03-21
+Serie A,29,Napoli,Venezia,2027-03-21
+Serie A,29,Parma,Lazio,2027-03-21
+Serie A,29,Sassuolo,Cagliari,2027-03-21
+Serie A,29,Udinese,Torino,2027-03-21
+Serie A,30,AC Milan,Monza,2027-04-04
+Serie A,30,AS Roma,Bologna,2027-04-04
+Serie A,30,Cagliari,Napoli,2027-04-04
+Serie A,30,Como,Fiorentina,2027-04-04
+Serie A,30,Frosinone,Udinese,2027-04-04
+Serie A,30,Genoa,Inter Milan,2027-04-04
+Serie A,30,Lecce,Lazio,2027-04-04
+Serie A,30,Sassuolo,Atalanta,2027-04-04
+Serie A,30,Torino,Juventus,2027-04-04
+Serie A,30,Venezia,Parma,2027-04-04
+Serie A,31,Bologna,Venezia,2027-04-11
+Serie A,31,Cagliari,Atalanta,2027-04-11
+Serie A,31,Fiorentina,AC Milan,2027-04-11
+Serie A,31,Frosinone,Genoa,2027-04-11
+Serie A,31,Inter Milan,AS Roma,2027-04-11
+Serie A,31,Juventus,Lecce,2027-04-11
+Serie A,31,Lazio,Torino,2027-04-11
+Serie A,31,Napoli,Sassuolo,2027-04-11
+Serie A,31,Parma,Como,2027-04-11
+Serie A,31,Udinese,Monza,2027-04-11
+Serie A,32,AC Milan,Napoli,2027-04-18
+Serie A,32,AS Roma,Lazio,2027-04-18
+Serie A,32,Atalanta,Udinese,2027-04-18
+Serie A,32,Bologna,Cagliari,2027-04-18
+Serie A,32,Como,Frosinone,2027-04-18
+Serie A,32,Fiorentina,Parma,2027-04-18
+Serie A,32,Monza,Inter Milan,2027-04-18
+Serie A,32,Sassuolo,Lecce,2027-04-18
+Serie A,32,Torino,Genoa,2027-04-18
+Serie A,32,Venezia,Juventus,2027-04-18
+Serie A,33,Cagliari,Monza,2027-04-25
+Serie A,33,Frosinone,AS Roma,2027-04-25
+Serie A,33,Genoa,Sassuolo,2027-04-25
+Serie A,33,Inter Milan,Bologna,2027-04-25
+Serie A,33,Juventus,Fiorentina,2027-04-25
+Serie A,33,Lazio,Como,2027-04-25
+Serie A,33,Lecce,AC Milan,2027-04-25
+Serie A,33,Napoli,Udinese,2027-04-25
+Serie A,33,Parma,Atalanta,2027-04-25
+Serie A,33,Venezia,Torino,2027-04-25
+Serie A,34,AC Milan,Lazio,2027-05-02
+Serie A,34,AS Roma,Napoli,2027-05-02
+Serie A,34,Atalanta,Juventus,2027-05-02
+Serie A,34,Bologna,Fiorentina,2027-05-02
+Serie A,34,Como,Inter Milan,2027-05-02
+Serie A,34,Lecce,Cagliari,2027-05-02
+Serie A,34,Monza,Venezia,2027-05-02
+Serie A,34,Sassuolo,Frosinone,2027-05-02
+Serie A,34,Torino,Parma,2027-05-02
+Serie A,34,Udinese,Genoa,2027-05-02
+Serie A,35,Fiorentina,AS Roma,2027-05-09
+Serie A,35,Frosinone,Atalanta,2027-05-09
+Serie A,35,Genoa,Cagliari,2027-05-09
+Serie A,35,Inter Milan,Lecce,2027-05-09
+Serie A,35,Lazio,Sassuolo,2027-05-09
+Serie A,35,Napoli,Monza,2027-05-09
+Serie A,35,Parma,AC Milan,2027-05-09
+Serie A,35,Torino,Bologna,2027-05-09
+Serie A,35,Udinese,Juventus,2027-05-09
+Serie A,35,Venezia,Como,2027-05-09
+Serie A,36,AC Milan,AS Roma,2027-05-16
+Serie A,36,Bologna,Frosinone,2027-05-16
+Serie A,36,Cagliari,Torino,2027-05-16
+Serie A,36,Como,Atalanta,2027-05-16
+Serie A,36,Juventus,Inter Milan,2027-05-16
+Serie A,36,Lazio,Udinese,2027-05-16
+Serie A,36,Lecce,Fiorentina,2027-05-16
+Serie A,36,Monza,Parma,2027-05-16
+Serie A,36,Napoli,Genoa,2027-05-16
+Serie A,36,Sassuolo,Venezia,2027-05-16
+Serie A,37,AS Roma,Como,2027-05-23
+Serie A,37,Atalanta,Lecce,2027-05-23
+Serie A,37,Fiorentina,Monza,2027-05-23
+Serie A,37,Frosinone,Cagliari,2027-05-23
+Serie A,37,Genoa,Bologna,2027-05-23
+Serie A,37,Inter Milan,Lazio,2027-05-23
+Serie A,37,Parma,Juventus,2027-05-23
+Serie A,37,Torino,Napoli,2027-05-23
+Serie A,37,Udinese,Sassuolo,2027-05-23
+Serie A,37,Venezia,AC Milan,2027-05-23
+Serie A,38,AC Milan,Udinese,2027-05-30
+Serie A,38,Bologna,Parma,2027-05-30
+Serie A,38,Cagliari,AS Roma,2027-05-30
+Serie A,38,Como,Genoa,2027-05-30
+Serie A,38,Juventus,Frosinone,2027-05-30
+Serie A,38,Lazio,Fiorentina,2027-05-30
+Serie A,38,Lecce,Venezia,2027-05-30
+Serie A,38,Monza,Torino,2027-05-30
+Serie A,38,Napoli,Atalanta,2027-05-30
+Serie A,38,Sassuolo,Inter Milan,2027-05-30
+Premier League,1,Arsenal,Coventry City,2026-08-21
+Premier League,1,Brentford,Tottenham,2026-08-22
+Premier League,1,Everton,Crystal Palace,2026-08-22
+Premier League,1,Hull City,Manchester Utd,2026-08-22
+Premier League,1,Ipswich Town,Sunderland,2026-08-22
+Premier League,1,Nottingham,Leeds United,2026-08-22
+Premier League,1,Brighton,Aston Villa,2026-08-23
+Premier League,1,Manchester City,Bournemouth,2026-08-23
+Premier League,1,Newcastle,Liverpool,2026-08-23
+Premier League,1,Fulham,Chelsea,2026-08-24
+Premier League,2,Crystal Palace,Manchester City,2026-08-28
+Premier League,2,Bournemouth,Everton,2026-08-29
+Premier League,2,Coventry City,Hull City,2026-08-29
+Premier League,2,Liverpool,Nottingham,2026-08-29
+Premier League,2,Tottenham,Newcastle,2026-08-29
+Premier League,2,Chelsea,Brighton,2026-08-30
+Premier League,2,Leeds United,Brentford,2026-08-30
+Premier League,2,Manchester Utd,Ipswich Town,2026-08-30
+Premier League,2,Sunderland,Fulham,2026-08-30
+Premier League,2,Aston Villa,Arsenal,2026-08-31
+Premier League,3,Ipswich Town,Liverpool,2026-09-04
+Premier League,3,Brentford,Sunderland,2026-09-05
+Premier League,3,Brighton,Leeds United,2026-09-05
+Premier League,3,Fulham,Crystal Palace,2026-09-05
+Premier League,3,Hull City,Aston Villa,2026-09-05
+Premier League,3,Manchester City,Coventry City,2026-09-05
+Premier League,3,Newcastle,Bournemouth,2026-09-05
+Premier League,3,Nottingham,Tottenham,2026-09-05
+Premier League,3,Arsenal,Chelsea,2026-09-06
+Premier League,3,Everton,Manchester Utd,2026-09-06
+Premier League,4,Aston Villa,Nottingham,2026-09-12
+Premier League,4,Bournemouth,Brentford,2026-09-12
+Premier League,4,Chelsea,Hull City,2026-09-12
+Premier League,4,Crystal Palace,Ipswich Town,2026-09-12
+Premier League,4,Liverpool,Fulham,2026-09-12
+Premier League,4,Sunderland,Arsenal,2026-09-12
+Premier League,4,Tottenham,Everton,2026-09-12
+Premier League,4,Coventry City,Brighton,2026-09-13
+Premier League,4,Manchester Utd,Manchester City,2026-09-13
+Premier League,4,Leeds United,Newcastle,2026-09-14
+Premier League,5,Brentford,Chelsea,2026-09-18
+Premier League,5,Brighton,Arsenal,2026-09-19
+Premier League,5,Everton,Ipswich Town,2026-09-19
+Premier League,5,Newcastle,Hull City,2026-09-19
+Premier League,5,Nottingham,Coventry City,2026-09-19
+Premier League,5,Tottenham,Aston Villa,2026-09-19
+Premier League,5,Bournemouth,Liverpool,2026-09-20
+Premier League,5,Fulham,Manchester Utd,2026-09-20
+Premier League,5,Leeds United,Crystal Palace,2026-09-20
+Premier League,5,Manchester City,Sunderland,2026-09-20
+Premier League,6,Arsenal,Leeds United,2026-10-10
+Premier League,6,Aston Villa,Brentford,2026-10-10
+Premier League,6,Chelsea,Bournemouth,2026-10-10
+Premier League,6,Ipswich Town,Fulham,2026-10-10
+Premier League,6,Manchester Utd,Tottenham,2026-10-10
+Premier League,6,Sunderland,Brighton,2026-10-10
+Premier League,6,Crystal Palace,Nottingham,2026-10-11
+Premier League,6,Hull City,Everton,2026-10-11
+Premier League,6,Liverpool,Manchester City,2026-10-11
+Premier League,6,Coventry City,Newcastle,2026-10-12
+Premier League,7,Brentford,Liverpool,2026-10-17
+Premier League,7,Everton,Chelsea,2026-10-17
+Premier League,7,Fulham,Hull City,2026-10-17
+Premier League,7,Manchester City,Ipswich Town,2026-10-17
+Premier League,7,Newcastle,Aston Villa,2026-10-17
+Premier League,7,Bournemouth,Sunderland,2026-10-18
+Premier League,7,Brighton,Crystal Palace,2026-10-18
+Premier League,7,Leeds United,Manchester Utd,2026-10-18
+Premier League,7,Nottingham,Arsenal,2026-10-18
+Premier League,7,Tottenham,Coventry City,2026-10-19
+Premier League,8,Ipswich Town,Nottingham,2026-10-23
+Premier League,8,Arsenal,Everton,2026-10-24
+Premier League,8,Aston Villa,Manchester City,2026-10-24
+Premier League,8,Chelsea,Tottenham,2026-10-24
+Premier League,8,Coventry City,Fulham,2026-10-24
+Premier League,8,Crystal Palace,Newcastle,2026-10-25
+Premier League,8,Hull City,Brentford,2026-10-25
+Premier League,8,Liverpool,Brighton,2026-10-25
+Premier League,8,Manchester Utd,Bournemouth,2026-10-25
+Premier League,8,Sunderland,Leeds United,2026-10-25
+Premier League,9,Aston Villa,Fulham,2026-10-31
+Premier League,9,Bournemouth,Leeds United,2026-10-31
+Premier League,9,Brentford,Nottingham,2026-10-31
+Premier League,9,Chelsea,Manchester Utd,2026-10-31
+Premier League,9,Coventry City,Sunderland,2026-10-31
+Premier League,9,Hull City,Ipswich Town,2026-10-31
+Premier League,9,Manchester City,Brighton,2026-10-31
+Premier League,9,Tottenham,Crystal Palace,2026-10-31
+Premier League,9,Liverpool,Arsenal,2026-11-01
+Premier League,9,Newcastle,Everton,2026-11-02
+Premier League,10,Arsenal,Hull City,2026-11-07
+Premier League,10,Brighton,Brentford,2026-11-07
+Premier League,10,Crystal Palace,Liverpool,2026-11-07
+Premier League,10,Everton,Coventry City,2026-11-07
+Premier League,10,Fulham,Newcastle,2026-11-07
+Premier League,10,Ipswich Town,Bournemouth,2026-11-07
+Premier League,10,Leeds United,Tottenham,2026-11-07
+Premier League,10,Manchester Utd,Aston Villa,2026-11-07
+Premier League,10,Nottingham,Manchester City,2026-11-07
+Premier League,10,Sunderland,Chelsea,2026-11-07
+Premier League,11,Aston Villa,Sunderland,2026-11-21
+Premier League,11,Bournemouth,Nottingham,2026-11-21
+Premier League,11,Brentford,Everton,2026-11-21
+Premier League,11,Chelsea,Leeds United,2026-11-21
+Premier League,11,Coventry City,Crystal Palace,2026-11-21
+Premier League,11,Hull City,Brighton,2026-11-21
+Premier League,11,Liverpool,Manchester Utd,2026-11-21
+Premier League,11,Manchester City,Fulham,2026-11-21
+Premier League,11,Newcastle,Arsenal,2026-11-21
+Premier League,11,Tottenham,Ipswich Town,2026-11-21
+Premier League,12,Arsenal,Manchester City,2026-11-28
+Premier League,12,Brighton,Newcastle,2026-11-28
+Premier League,12,Crystal Palace,Hull City,2026-11-28
+Premier League,12,Everton,Liverpool,2026-11-28
+Premier League,12,Fulham,Bournemouth,2026-11-28
+Premier League,12,Ipswich Town,Aston Villa,2026-11-28
+Premier League,12,Leeds United,Coventry City,2026-11-28
+Premier League,12,Manchester Utd,Brentford,2026-11-28
+Premier League,12,Nottingham,Chelsea,2026-11-28
+Premier League,12,Sunderland,Tottenham,2026-11-28
+Premier League,13,Aston Villa,Everton,2026-12-02
+Premier League,13,Bournemouth,Brighton,2026-12-02
+Premier League,13,Brentford,Arsenal,2026-12-02
+Premier League,13,Chelsea,Crystal Palace,2026-12-02
+Premier League,13,Coventry City,Ipswich Town,2026-12-02
+Premier League,13,Hull City,Nottingham,2026-12-02
+Premier League,13,Liverpool,Sunderland,2026-12-02
+Premier League,13,Manchester City,Leeds United,2026-12-02
+Premier League,13,Newcastle,Manchester Utd,2026-12-02
+Premier League,13,Tottenham,Fulham,2026-12-02
+Premier League,14,Aston Villa,Crystal Palace,2026-12-05
+Premier League,14,Bournemouth,Hull City,2026-12-05
+Premier League,14,Brentford,Manchester City,2026-12-05
+Premier League,14,Chelsea,Liverpool,2026-12-05
+Premier League,14,Everton,Fulham,2026-12-05
+Premier League,14,Leeds United,Ipswich Town,2026-12-05
+Premier League,14,Manchester Utd,Coventry City,2026-12-05
+Premier League,14,Newcastle,Sunderland,2026-12-05
+Premier League,14,Nottingham,Brighton,2026-12-05
+Premier League,14,Tottenham,Arsenal,2026-12-05
+Premier League,15,Arsenal,Bournemouth,2026-12-12
+Premier League,15,Brighton,Everton,2026-12-12
+Premier League,15,Coventry City,Aston Villa,2026-12-12
+Premier League,15,Crystal Palace,Manchester Utd,2026-12-12
+Premier League,15,Fulham,Brentford,2026-12-12
+Premier League,15,Hull City,Tottenham,2026-12-12
+Premier League,15,Ipswich Town,Newcastle,2026-12-12
+Premier League,15,Liverpool,Leeds United,2026-12-12
+Premier League,15,Manchester City,Chelsea,2026-12-12
+Premier League,15,Sunderland,Nottingham,2026-12-12
+Premier League,16,Arsenal,Manchester Utd,2026-12-19
+Premier League,16,Bournemouth,Coventry City,2026-12-19
+Premier League,16,Brentford,Newcastle,2026-12-19
+Premier League,16,Brighton,Ipswich Town,2026-12-19
+Premier League,16,Chelsea,Aston Villa,2026-12-19
+Premier League,16,Leeds United,Fulham,2026-12-19
+Premier League,16,Liverpool,Tottenham,2026-12-19
+Premier League,16,Manchester City,Hull City,2026-12-19
+Premier League,16,Nottingham,Everton,2026-12-19
+Premier League,16,Sunderland,Crystal Palace,2026-12-19
+Premier League,17,Aston Villa,Leeds United,2026-12-26
+Premier League,17,Everton,Sunderland,2026-12-26
+Premier League,17,Fulham,Brighton,2026-12-26
+Premier League,17,Hull City,Liverpool,2026-12-26
+Premier League,17,Ipswich Town,Brentford,2026-12-26
+Premier League,17,Newcastle,Manchester City,2026-12-26
+Premier League,17,Tottenham,Bournemouth,2026-12-26
+Premier League,17,Coventry City,Chelsea,2026-12-27
+Premier League,17,Crystal Palace,Arsenal,2026-12-27
+Premier League,17,Manchester Utd,Nottingham,2026-12-27
+Premier League,18,Everton,Manchester City,2026-12-29
+Premier League,18,Hull City,Leeds United,2026-12-29
+Premier League,18,Tottenham,Brighton,2026-12-29
+Premier League,18,Aston Villa,Liverpool,2026-12-30
+Premier League,18,Coventry City,Brentford,2026-12-30
+Premier League,18,Crystal Palace,Bournemouth,2026-12-30
+Premier League,18,Fulham,Arsenal,2026-12-30
+Premier League,18,Ipswich Town,Chelsea,2026-12-30
+Premier League,18,Manchester Utd,Sunderland,2026-12-30
+Premier League,18,Newcastle,Nottingham,2026-12-30
+Premier League,19,Leeds United,Everton,2027-01-01
+Premier League,19,Arsenal,Ipswich Town,2027-01-02
+Premier League,19,Bournemouth,Aston Villa,2027-01-02
+Premier League,19,Brentford,Crystal Palace,2027-01-02
+Premier League,19,Brighton,Manchester Utd,2027-01-02
+Premier League,19,Liverpool,Coventry City,2027-01-02
+Premier League,19,Nottingham,Fulham,2027-01-02
+Premier League,19,Sunderland,Hull City,2027-01-02
+Premier League,19,Chelsea,Newcastle,2027-01-03
+Premier League,19,Manchester City,Tottenham,2027-01-03
+Premier League,20,Arsenal,Brentford,2027-01-05
+Premier League,20,Brighton,Bournemouth,2027-01-05
+Premier League,20,Everton,Aston Villa,2027-01-05
+Premier League,20,Nottingham,Hull City,2027-01-05
+Premier League,20,Sunderland,Liverpool,2027-01-05
+Premier League,20,Crystal Palace,Chelsea,2027-01-06
+Premier League,20,Fulham,Tottenham,2027-01-06
+Premier League,20,Ipswich Town,Coventry City,2027-01-06
+Premier League,20,Leeds United,Manchester City,2027-01-06
+Premier League,20,Manchester Utd,Newcastle,2027-01-07
+Premier League,21,Aston Villa,Manchester Utd,2027-01-16
+Premier League,21,Bournemouth,Ipswich Town,2027-01-16
+Premier League,21,Brentford,Brighton,2027-01-16
+Premier League,21,Chelsea,Sunderland,2027-01-16
+Premier League,21,Coventry City,Everton,2027-01-16
+Premier League,21,Hull City,Arsenal,2027-01-16
+Premier League,21,Liverpool,Crystal Palace,2027-01-16
+Premier League,21,Manchester City,Nottingham,2027-01-16
+Premier League,21,Newcastle,Fulham,2027-01-16
+Premier League,21,Tottenham,Leeds United,2027-01-16
+Premier League,22,Arsenal,Newcastle,2027-01-23
+Premier League,22,Brighton,Manchester City,2027-01-23
+Premier League,22,Crystal Palace,Tottenham,2027-01-23
+Premier League,22,Everton,Brentford,2027-01-23
+Premier League,22,Fulham,Aston Villa,2027-01-23
+Premier League,22,Ipswich Town,Hull City,2027-01-23
+Premier League,22,Leeds United,Chelsea,2027-01-23
+Premier League,22,Manchester Utd,Liverpool,2027-01-23
+Premier League,22,Nottingham,Bournemouth,2027-01-23
+Premier League,22,Sunderland,Coventry City,2027-01-23
+Premier League,23,Aston Villa,Ipswich Town,2027-01-30
+Premier League,23,Bournemouth,Fulham,2027-01-30
+Premier League,23,Brentford,Manchester Utd,2027-01-30
+Premier League,23,Chelsea,Nottingham,2027-01-30
+Premier League,23,Coventry City,Leeds United,2027-01-30
+Premier League,23,Hull City,Crystal Palace,2027-01-30
+Premier League,23,Liverpool,Everton,2027-01-30
+Premier League,23,Manchester City,Arsenal,2027-01-30
+Premier League,23,Newcastle,Brighton,2027-01-30
+Premier League,23,Tottenham,Sunderland,2027-01-30
+Premier League,24,Arsenal,Liverpool,2027-02-06
+Premier League,24,Brighton,Hull City,2027-02-06
+Premier League,24,Crystal Palace,Coventry City,2027-02-06
+Premier League,24,Everton,Newcastle,2027-02-06
+Premier League,24,Fulham,Manchester City,2027-02-06
+Premier League,24,Ipswich Town,Tottenham,2027-02-06
+Premier League,24,Leeds United,Bournemouth,2027-02-06
+Premier League,24,Manchester Utd,Chelsea,2027-02-06
+Premier League,24,Nottingham,Brentford,2027-02-06
+Premier League,24,Sunderland,Aston Villa,2027-02-06
+Premier League,25,Aston Villa,Bournemouth,2027-02-10
+Premier League,25,Coventry City,Liverpool,2027-02-10
+Premier League,25,Crystal Palace,Brentford,2027-02-10
+Premier League,25,Everton,Leeds United,2027-02-10
+Premier League,25,Fulham,Nottingham,2027-02-10
+Premier League,25,Hull City,Sunderland,2027-02-10
+Premier League,25,Ipswich Town,Arsenal,2027-02-10
+Premier League,25,Manchester Utd,Brighton,2027-02-10
+Premier League,25,Newcastle,Chelsea,2027-02-10
+Premier League,25,Tottenham,Manchester City,2027-02-10
+Premier League,26,Arsenal,Fulham,2027-02-20
+Premier League,26,Bournemouth,Crystal Palace,2027-02-20
+Premier League,26,Brentford,Coventry City,2027-02-20
+Premier League,26,Brighton,Tottenham,2027-02-20
+Premier League,26,Chelsea,Ipswich Town,2027-02-20
+Premier League,26,Leeds United,Aston Villa,2027-02-20
+Premier League,26,Liverpool,Hull City,2027-02-20
+Premier League,26,Manchester City,Newcastle,2027-02-20
+Premier League,26,Nottingham,Manchester Utd,2027-02-20
+Premier League,26,Sunderland,Everton,2027-02-20
+Premier League,27,Aston Villa,Chelsea,2027-02-27
+Premier League,27,Coventry City,Bournemouth,2027-02-27
+Premier League,27,Crystal Palace,Sunderland,2027-02-27
+Premier League,27,Everton,Nottingham,2027-02-27
+Premier League,27,Fulham,Leeds United,2027-02-27
+Premier League,27,Hull City,Manchester City,2027-02-27
+Premier League,27,Ipswich Town,Brighton,2027-02-27
+Premier League,27,Manchester Utd,Arsenal,2027-02-27
+Premier League,27,Newcastle,Brentford,2027-02-27
+Premier League,27,Tottenham,Liverpool,2027-02-27
+Premier League,28,Arsenal,Crystal Palace,2027-03-03
+Premier League,28,Bournemouth,Tottenham,2027-03-03
+Premier League,28,Brentford,Ipswich Town,2027-03-03
+Premier League,28,Brighton,Fulham,2027-03-03
+Premier League,28,Chelsea,Coventry City,2027-03-03
+Premier League,28,Leeds United,Hull City,2027-03-03
+Premier League,28,Liverpool,Aston Villa,2027-03-03
+Premier League,28,Manchester City,Everton,2027-03-03
+Premier League,28,Nottingham,Newcastle,2027-03-03
+Premier League,28,Sunderland,Manchester Utd,2027-03-03
+Premier League,29,Aston Villa,Hull City,2027-03-13
+Premier League,29,Bournemouth,Newcastle,2027-03-13
+Premier League,29,Chelsea,Arsenal,2027-03-13
+Premier League,29,Coventry City,Manchester City,2027-03-13
+Premier League,29,Crystal Palace,Fulham,2027-03-13
+Premier League,29,Leeds United,Brighton,2027-03-13
+Premier League,29,Liverpool,Ipswich Town,2027-03-13
+Premier League,29,Manchester Utd,Everton,2027-03-13
+Premier League,29,Sunderland,Brentford,2027-03-13
+Premier League,29,Tottenham,Nottingham,2027-03-13
+Premier League,30,Arsenal,Sunderland,2027-03-20
+Premier League,30,Brentford,Bournemouth,2027-03-20
+Premier League,30,Brighton,Coventry City,2027-03-20
+Premier League,30,Everton,Tottenham,2027-03-20
+Premier League,30,Fulham,Liverpool,2027-03-20
+Premier League,30,Hull City,Chelsea,2027-03-20
+Premier League,30,Ipswich Town,Crystal Palace,2027-03-20
+Premier League,30,Manchester City,Manchester Utd,2027-03-20
+Premier League,30,Newcastle,Leeds United,2027-03-20
+Premier League,30,Nottingham,Aston Villa,2027-03-20
+Premier League,31,Aston Villa,Brighton,2027-04-10
+Premier League,31,Bournemouth,Manchester City,2027-04-10
+Premier League,31,Chelsea,Fulham,2027-04-10
+Premier League,31,Coventry City,Arsenal,2027-04-10
+Premier League,31,Crystal Palace,Everton,2027-04-10
+Premier League,31,Leeds United,Nottingham,2027-04-10
+Premier League,31,Liverpool,Newcastle,2027-04-10
+Premier League,31,Manchester Utd,Hull City,2027-04-10
+Premier League,31,Sunderland,Ipswich Town,2027-04-10
+Premier League,31,Tottenham,Brentford,2027-04-10
+Premier League,32,Arsenal,Aston Villa,2027-04-17
+Premier League,32,Brentford,Leeds United,2027-04-17
+Premier League,32,Brighton,Chelsea,2027-04-17
+Premier League,32,Everton,Bournemouth,2027-04-17
+Premier League,32,Fulham,Sunderland,2027-04-17
+Premier League,32,Hull City,Coventry City,2027-04-17
+Premier League,32,Ipswich Town,Manchester Utd,2027-04-17
+Premier League,32,Manchester City,Crystal Palace,2027-04-17
+Premier League,32,Newcastle,Tottenham,2027-04-17
+Premier League,32,Nottingham,Liverpool,2027-04-17
+Premier League,33,Aston Villa,Coventry City,2027-04-24
+Premier League,33,Bournemouth,Arsenal,2027-04-24
+Premier League,33,Brentford,Fulham,2027-04-24
+Premier League,33,Chelsea,Manchester City,2027-04-24
+Premier League,33,Everton,Brighton,2027-04-24
+Premier League,33,Leeds United,Liverpool,2027-04-24
+Premier League,33,Manchester Utd,Crystal Palace,2027-04-24
+Premier League,33,Newcastle,Ipswich Town,2027-04-24
+Premier League,33,Nottingham,Sunderland,2027-04-24
+Premier League,33,Tottenham,Hull City,2027-04-24
+Premier League,34,Arsenal,Tottenham,2027-05-01
+Premier League,34,Brighton,Nottingham,2027-05-01
+Premier League,34,Coventry City,Manchester Utd,2027-05-01
+Premier League,34,Crystal Palace,Aston Villa,2027-05-01
+Premier League,34,Fulham,Everton,2027-05-01
+Premier League,34,Hull City,Bournemouth,2027-05-01
+Premier League,34,Ipswich Town,Leeds United,2027-05-01
+Premier League,34,Liverpool,Chelsea,2027-05-01
+Premier League,34,Manchester City,Brentford,2027-05-01
+Premier League,34,Sunderland,Newcastle,2027-05-01
+Premier League,35,Bournemouth,Manchester Utd,2027-05-08
+Premier League,35,Brentford,Aston Villa,2027-05-08
+Premier League,35,Brighton,Sunderland,2027-05-08
+Premier League,35,Everton,Hull City,2027-05-08
+Premier League,35,Fulham,Ipswich Town,2027-05-08
+Premier League,35,Leeds United,Arsenal,2027-05-08
+Premier League,35,Manchester City,Liverpool,2027-05-08
+Premier League,35,Newcastle,Coventry City,2027-05-08
+Premier League,35,Nottingham,Crystal Palace,2027-05-08
+Premier League,35,Tottenham,Chelsea,2027-05-08
+Premier League,36,Arsenal,Nottingham,2027-05-15
+Premier League,36,Aston Villa,Newcastle,2027-05-15
+Premier League,36,Chelsea,Everton,2027-05-15
+Premier League,36,Coventry City,Tottenham,2027-05-15
+Premier League,36,Crystal Palace,Brighton,2027-05-15
+Premier League,36,Hull City,Fulham,2027-05-15
+Premier League,36,Ipswich Town,Manchester City,2027-05-15
+Premier League,36,Liverpool,Brentford,2027-05-15
+Premier League,36,Manchester Utd,Leeds United,2027-05-15
+Premier League,36,Sunderland,Bournemouth,2027-05-15
+Premier League,37,Bournemouth,Chelsea,2027-05-23
+Premier League,37,Brentford,Hull City,2027-05-23
+Premier League,37,Brighton,Liverpool,2027-05-23
+Premier League,37,Everton,Arsenal,2027-05-23
+Premier League,37,Fulham,Coventry City,2027-05-23
+Premier League,37,Leeds United,Sunderland,2027-05-23
+Premier League,37,Manchester City,Aston Villa,2027-05-23
+Premier League,37,Newcastle,Crystal Palace,2027-05-23
+Premier League,37,Nottingham,Ipswich Town,2027-05-23
+Premier League,37,Tottenham,Manchester Utd,2027-05-23
+Premier League,38,Arsenal,Brighton,2027-05-30
+Premier League,38,Aston Villa,Tottenham,2027-05-30
+Premier League,38,Chelsea,Brentford,2027-05-30
+Premier League,38,Coventry City,Nottingham,2027-05-30
+Premier League,38,Crystal Palace,Leeds United,2027-05-30
+Premier League,38,Hull City,Newcastle,2027-05-30
+Premier League,38,Ipswich Town,Everton,2027-05-30
+Premier League,38,Liverpool,Bournemouth,2027-05-30
+Premier League,38,Manchester Utd,Fulham,2027-05-30
+Premier League,38,Sunderland,Manchester City,2027-05-30
+Bundesliga,1,Bayern Munich,Stuttgart,2026-08-28
+Bundesliga,1,Dortmund,Hamburger SV,2026-08-29
+Bundesliga,1,Elversberg,Leverkusen,2026-08-29
+Bundesliga,1,Köln,Hoffenheim,2026-08-29
+Bundesliga,1,Mainz 05,Paderborn 07,2026-08-29
+Bundesliga,1,RB Leipzig,Gladbach,2026-08-29
+Bundesliga,1,Union Berlin,Frankfurt,2026-08-29
+Bundesliga,1,Augsburg,Schalke 04,2026-08-30
+Bundesliga,1,Freiburg,Werder Bremen,2026-08-30
+Bundesliga,2,Stuttgart,Köln,2026-09-04
+Bundesliga,2,Gladbach,Elversberg,2026-09-05
+Bundesliga,2,Hoffenheim,Dortmund,2026-09-05
+Bundesliga,2,Leverkusen,Union Berlin,2026-09-05
+Bundesliga,2,Paderborn 07,Freiburg,2026-09-05
+Bundesliga,2,Schalke 04,Bayern Munich,2026-09-05
+Bundesliga,2,Werder Bremen,RB Leipzig,2026-09-05
+Bundesliga,2,Frankfurt,Augsburg,2026-09-06
+Bundesliga,2,Hamburger SV,Mainz 05,2026-09-06
+Bundesliga,3,Union Berlin,Schalke 04,2026-09-11
+Bundesliga,3,Augsburg,Leverkusen,2026-09-12
+Bundesliga,3,Dortmund,Paderborn 07,2026-09-12
+Bundesliga,3,Freiburg,Gladbach,2026-09-12
+Bundesliga,3,Hoffenheim,Stuttgart,2026-09-12
+Bundesliga,3,Köln,Werder Bremen,2026-09-12
+Bundesliga,3,Mainz 05,Frankfurt,2026-09-12
+Bundesliga,3,Elversberg,Bayern Munich,2026-09-13
+Bundesliga,3,RB Leipzig,Hamburger SV,2026-09-13
+Bundesliga,4,Bayern Munich,Union Berlin,2026-09-18
+Bundesliga,4,Frankfurt,Freiburg,2026-09-19
+Bundesliga,4,Gladbach,Mainz 05,2026-09-19
+Bundesliga,4,Hamburger SV,Köln,2026-09-19
+Bundesliga,4,Stuttgart,Dortmund,2026-09-19
+Bundesliga,4,Werder Bremen,Augsburg,2026-09-19
+Bundesliga,4,Leverkusen,RB Leipzig,2026-09-20
+Bundesliga,4,Paderborn 07,Hoffenheim,2026-09-20
+Bundesliga,4,Schalke 04,Elversberg,2026-09-20
+Bundesliga,5,Dortmund,Werder Bremen,2026-10-09
+Bundesliga,5,Augsburg,Bayern Munich,2026-10-10
+Bundesliga,5,Hoffenheim,Hamburger SV,2026-10-10
+Bundesliga,5,Mainz 05,Leverkusen,2026-10-10
+Bundesliga,5,Paderborn 07,Stuttgart,2026-10-10
+Bundesliga,5,RB Leipzig,Frankfurt,2026-10-10
+Bundesliga,5,Union Berlin,Elversberg,2026-10-10
+Bundesliga,5,Freiburg,Schalke 04,2026-10-11
+Bundesliga,5,Köln,Gladbach,2026-10-11
+Bundesliga,6,Frankfurt,Köln,2026-10-16
+Bundesliga,6,Bayern Munich,RB Leipzig,2026-10-17
+Bundesliga,6,Elversberg,Augsburg,2026-10-17
+Bundesliga,6,Hamburger SV,Stuttgart,2026-10-17
+Bundesliga,6,Schalke 04,Mainz 05,2026-10-17
+Bundesliga,6,Union Berlin,Dortmund,2026-10-17
+Bundesliga,6,Werder Bremen,Paderborn 07,2026-10-17
+Bundesliga,6,Gladbach,Hoffenheim,2026-10-18
+Bundesliga,6,Leverkusen,Freiburg,2026-10-18
+Bundesliga,7,Stuttgart,Gladbach,2026-10-23
+Bundesliga,7,Augsburg,Union Berlin,2026-10-24
+Bundesliga,7,Dortmund,Frankfurt,2026-10-24
+Bundesliga,7,Köln,Schalke 04,2026-10-24
+Bundesliga,7,Mainz 05,Werder Bremen,2026-10-24
+Bundesliga,7,Paderborn 07,Hamburger SV,2026-10-24
+Bundesliga,7,RB Leipzig,Elversberg,2026-10-24
+Bundesliga,7,Freiburg,Bayern Munich,2026-10-25
+Bundesliga,7,Hoffenheim,Leverkusen,2026-10-25
+Bundesliga,8,Elversberg,Mainz 05,2026-10-30
+Bundesliga,8,Augsburg,Freiburg,2026-10-31
+Bundesliga,8,Bayern Munich,Dortmund,2026-10-31
+Bundesliga,8,Gladbach,Paderborn 07,2026-10-31
+Bundesliga,8,Leverkusen,Stuttgart,2026-10-31
+Bundesliga,8,Schalke 04,RB Leipzig,2026-10-31
+Bundesliga,8,Werder Bremen,Hoffenheim,2026-10-31
+Bundesliga,8,Frankfurt,Hamburger SV,2026-11-01
+Bundesliga,8,Union Berlin,Köln,2026-11-01
+Bundesliga,9,Hamburger SV,Gladbach,2026-11-06
+Bundesliga,9,Dortmund,Elversberg,2026-11-07
+Bundesliga,9,Mainz 05,Bayern Munich,2026-11-07
+Bundesliga,9,Paderborn 07,Frankfurt,2026-11-07
+Bundesliga,9,RB Leipzig,Augsburg,2026-11-07
+Bundesliga,9,Stuttgart,Werder Bremen,2026-11-07
+Bundesliga,9,Freiburg,Union Berlin,2026-11-08
+Bundesliga,9,Hoffenheim,Schalke 04,2026-11-08
+Bundesliga,9,Köln,Leverkusen,2026-11-08
+Bundesliga,10,Bayern Munich,Köln,2026-11-20
+Bundesliga,10,Elversberg,Freiburg,2026-11-21
+Bundesliga,10,Frankfurt,Hoffenheim,2026-11-21
+Bundesliga,10,Gladbach,Dortmund,2026-11-21
+Bundesliga,10,Leverkusen,Paderborn 07,2026-11-21
+Bundesliga,10,Schalke 04,Stuttgart,2026-11-21
+Bundesliga,10,Union Berlin,RB Leipzig,2026-11-21
+Bundesliga,10,Augsburg,Mainz 05,2026-11-22
+Bundesliga,10,Werder Bremen,Hamburger SV,2026-11-22
+Bundesliga,11,Werder Bremen,Gladbach,2026-11-27
+Bundesliga,11,Hamburger SV,Bayern Munich,2026-11-28
+Bundesliga,11,Köln,Elversberg,2026-11-28
+Bundesliga,11,Mainz 05,Union Berlin,2026-11-28
+Bundesliga,11,Paderborn 07,Schalke 04,2026-11-28
+Bundesliga,11,Stuttgart,Frankfurt,2026-11-28
+Bundesliga,11,Dortmund,Leverkusen,2026-11-29
+Bundesliga,11,Freiburg,RB Leipzig,2026-11-29
+Bundesliga,11,Hoffenheim,Augsburg,2026-11-29
+Bundesliga,12,Augsburg,Köln,2026-12-05
+Bundesliga,12,Bayern Munich,Paderborn 07,2026-12-05
+Bundesliga,12,Elversberg,Stuttgart,2026-12-05
+Bundesliga,12,Frankfurt,Werder Bremen,2026-12-05
+Bundesliga,12,Freiburg,Hoffenheim,2026-12-05
+Bundesliga,12,Leverkusen,Gladbach,2026-12-05
+Bundesliga,12,RB Leipzig,Mainz 05,2026-12-05
+Bundesliga,12,Schalke 04,Dortmund,2026-12-05
+Bundesliga,12,Union Berlin,Hamburger SV,2026-12-05
+Bundesliga,13,Dortmund,Augsburg,2026-12-12
+Bundesliga,13,Gladbach,Frankfurt,2026-12-12
+Bundesliga,13,Hamburger SV,Schalke 04,2026-12-12
+Bundesliga,13,Hoffenheim,Bayern Munich,2026-12-12
+Bundesliga,13,Köln,RB Leipzig,2026-12-12
+Bundesliga,13,Mainz 05,Freiburg,2026-12-12
+Bundesliga,13,Paderborn 07,Elversberg,2026-12-12
+Bundesliga,13,Stuttgart,Union Berlin,2026-12-12
+Bundesliga,13,Werder Bremen,Leverkusen,2026-12-12
+Bundesliga,14,Augsburg,Paderborn 07,2026-12-19
+Bundesliga,14,Bayern Munich,Werder Bremen,2026-12-19
+Bundesliga,14,Elversberg,Hamburger SV,2026-12-19
+Bundesliga,14,Freiburg,Stuttgart,2026-12-19
+Bundesliga,14,Leverkusen,Frankfurt,2026-12-19
+Bundesliga,14,Mainz 05,Köln,2026-12-19
+Bundesliga,14,RB Leipzig,Dortmund,2026-12-19
+Bundesliga,14,Schalke 04,Gladbach,2026-12-19
+Bundesliga,14,Union Berlin,Hoffenheim,2026-12-19
+Bundesliga,15,Dortmund,Mainz 05,2027-01-09
+Bundesliga,15,Frankfurt,Schalke 04,2027-01-09
+Bundesliga,15,Gladbach,Bayern Munich,2027-01-09
+Bundesliga,15,Hamburger SV,Leverkusen,2027-01-09
+Bundesliga,15,Hoffenheim,Elversberg,2027-01-09
+Bundesliga,15,Köln,Freiburg,2027-01-09
+Bundesliga,15,Paderborn 07,RB Leipzig,2027-01-09
+Bundesliga,15,Stuttgart,Augsburg,2027-01-09
+Bundesliga,15,Werder Bremen,Union Berlin,2027-01-09
+Bundesliga,16,Augsburg,Gladbach,2027-01-13
+Bundesliga,16,Bayern Munich,Leverkusen,2027-01-13
+Bundesliga,16,Elversberg,Frankfurt,2027-01-13
+Bundesliga,16,Freiburg,Hamburger SV,2027-01-13
+Bundesliga,16,Köln,Dortmund,2027-01-13
+Bundesliga,16,Mainz 05,Hoffenheim,2027-01-13
+Bundesliga,16,RB Leipzig,Stuttgart,2027-01-13
+Bundesliga,16,Schalke 04,Werder Bremen,2027-01-13
+Bundesliga,16,Union Berlin,Paderborn 07,2027-01-13
+Bundesliga,17,Dortmund,Freiburg,2027-01-16
+Bundesliga,17,Frankfurt,Bayern Munich,2027-01-16
+Bundesliga,17,Gladbach,Union Berlin,2027-01-16
+Bundesliga,17,Hamburger SV,Augsburg,2027-01-16
+Bundesliga,17,Hoffenheim,RB Leipzig,2027-01-16
+Bundesliga,17,Leverkusen,Schalke 04,2027-01-16
+Bundesliga,17,Paderborn 07,Köln,2027-01-16
+Bundesliga,17,Stuttgart,Mainz 05,2027-01-16
+Bundesliga,17,Werder Bremen,Elversberg,2027-01-16
+Bundesliga,18,Frankfurt,Union Berlin,2027-01-23
+Bundesliga,18,Gladbach,RB Leipzig,2027-01-23
+Bundesliga,18,Hamburger SV,Dortmund,2027-01-23
+Bundesliga,18,Hoffenheim,Köln,2027-01-23
+Bundesliga,18,Leverkusen,Elversberg,2027-01-23
+Bundesliga,18,Paderborn 07,Mainz 05,2027-01-23
+Bundesliga,18,Schalke 04,Augsburg,2027-01-23
+Bundesliga,18,Stuttgart,Bayern Munich,2027-01-23
+Bundesliga,18,Werder Bremen,Freiburg,2027-01-23
+Bundesliga,19,Augsburg,Frankfurt,2027-01-30
+Bundesliga,19,Bayern Munich,Schalke 04,2027-01-30
+Bundesliga,19,Dortmund,Hoffenheim,2027-01-30
+Bundesliga,19,Elversberg,Gladbach,2027-01-30
+Bundesliga,19,Freiburg,Paderborn 07,2027-01-30
+Bundesliga,19,Köln,Stuttgart,2027-01-30
+Bundesliga,19,Mainz 05,Hamburger SV,2027-01-30
+Bundesliga,19,RB Leipzig,Werder Bremen,2027-01-30
+Bundesliga,19,Union Berlin,Leverkusen,2027-01-30
+Bundesliga,20,Bayern Munich,Elversberg,2027-02-06
+Bundesliga,20,Frankfurt,Mainz 05,2027-02-06
+Bundesliga,20,Gladbach,Freiburg,2027-02-06
+Bundesliga,20,Hamburger SV,RB Leipzig,2027-02-06
+Bundesliga,20,Leverkusen,Augsburg,2027-02-06
+Bundesliga,20,Paderborn 07,Dortmund,2027-02-06
+Bundesliga,20,Schalke 04,Union Berlin,2027-02-06
+Bundesliga,20,Stuttgart,Hoffenheim,2027-02-06
+Bundesliga,20,Werder Bremen,Köln,2027-02-06
+Bundesliga,21,Augsburg,Werder Bremen,2027-02-13
+Bundesliga,21,Dortmund,Stuttgart,2027-02-13
+Bundesliga,21,Elversberg,Schalke 04,2027-02-13
+Bundesliga,21,Freiburg,Frankfurt,2027-02-13
+Bundesliga,21,Hoffenheim,Paderborn 07,2027-02-13
+Bundesliga,21,Köln,Hamburger SV,2027-02-13
+Bundesliga,21,Mainz 05,Gladbach,2027-02-13
+Bundesliga,21,RB Leipzig,Leverkusen,2027-02-13
+Bundesliga,21,Union Berlin,Bayern Munich,2027-02-13
+Bundesliga,22,Bayern Munich,Augsburg,2027-02-20
+Bundesliga,22,Elversberg,Union Berlin,2027-02-20
+Bundesliga,22,Frankfurt,RB Leipzig,2027-02-20
+Bundesliga,22,Gladbach,Köln,2027-02-20
+Bundesliga,22,Hamburger SV,Hoffenheim,2027-02-20
+Bundesliga,22,Leverkusen,Mainz 05,2027-02-20
+Bundesliga,22,Schalke 04,Freiburg,2027-02-20
+Bundesliga,22,Stuttgart,Paderborn 07,2027-02-20
+Bundesliga,22,Werder Bremen,Dortmund,2027-02-20
+Bundesliga,23,Augsburg,Elversberg,2027-02-27
+Bundesliga,23,Dortmund,Union Berlin,2027-02-27
+Bundesliga,23,Freiburg,Leverkusen,2027-02-27
+Bundesliga,23,Hoffenheim,Gladbach,2027-02-27
+Bundesliga,23,Köln,Frankfurt,2027-02-27
+Bundesliga,23,Mainz 05,Schalke 04,2027-02-27
+Bundesliga,23,Paderborn 07,Werder Bremen,2027-02-27
+Bundesliga,23,RB Leipzig,Bayern Munich,2027-02-27
+Bundesliga,23,Stuttgart,Hamburger SV,2027-02-27
+Bundesliga,24,Bayern Munich,Freiburg,2027-03-03
+Bundesliga,24,Elversberg,RB Leipzig,2027-03-03
+Bundesliga,24,Frankfurt,Dortmund,2027-03-03
+Bundesliga,24,Gladbach,Stuttgart,2027-03-03
+Bundesliga,24,Hamburger SV,Paderborn 07,2027-03-03
+Bundesliga,24,Leverkusen,Hoffenheim,2027-03-03
+Bundesliga,24,Schalke 04,Köln,2027-03-03
+Bundesliga,24,Union Berlin,Augsburg,2027-03-03
+Bundesliga,24,Werder Bremen,Mainz 05,2027-03-03
+Bundesliga,25,Dortmund,Bayern Munich,2027-03-06
+Bundesliga,25,Freiburg,Augsburg,2027-03-06
+Bundesliga,25,Hamburger SV,Frankfurt,2027-03-06
+Bundesliga,25,Hoffenheim,Werder Bremen,2027-03-06
+Bundesliga,25,Köln,Union Berlin,2027-03-06
+Bundesliga,25,Mainz 05,Elversberg,2027-03-06
+Bundesliga,25,Paderborn 07,Gladbach,2027-03-06
+Bundesliga,25,RB Leipzig,Schalke 04,2027-03-06
+Bundesliga,25,Stuttgart,Leverkusen,2027-03-06
+Bundesliga,26,Augsburg,RB Leipzig,2027-03-13
+Bundesliga,26,Bayern Munich,Mainz 05,2027-03-13
+Bundesliga,26,Elversberg,Dortmund,2027-03-13
+Bundesliga,26,Frankfurt,Paderborn 07,2027-03-13
+Bundesliga,26,Gladbach,Hamburger SV,2027-03-13
+Bundesliga,26,Leverkusen,Köln,2027-03-13
+Bundesliga,26,Schalke 04,Hoffenheim,2027-03-13
+Bundesliga,26,Union Berlin,Freiburg,2027-03-13
+Bundesliga,26,Werder Bremen,Stuttgart,2027-03-13
+Bundesliga,27,Dortmund,Gladbach,2027-03-20
+Bundesliga,27,Freiburg,Elversberg,2027-03-20
+Bundesliga,27,Hamburger SV,Werder Bremen,2027-03-20
+Bundesliga,27,Hoffenheim,Frankfurt,2027-03-20
+Bundesliga,27,Köln,Bayern Munich,2027-03-20
+Bundesliga,27,Mainz 05,Augsburg,2027-03-20
+Bundesliga,27,Paderborn 07,Leverkusen,2027-03-20
+Bundesliga,27,RB Leipzig,Union Berlin,2027-03-20
+Bundesliga,27,Stuttgart,Schalke 04,2027-03-20
+Bundesliga,28,Augsburg,Hoffenheim,2027-04-03
+Bundesliga,28,Bayern Munich,Hamburger SV,2027-04-03
+Bundesliga,28,Elversberg,Köln,2027-04-03
+Bundesliga,28,Frankfurt,Stuttgart,2027-04-03
+Bundesliga,28,Gladbach,Werder Bremen,2027-04-03
+Bundesliga,28,Leverkusen,Dortmund,2027-04-03
+Bundesliga,28,RB Leipzig,Freiburg,2027-04-03
+Bundesliga,28,Schalke 04,Paderborn 07,2027-04-03
+Bundesliga,28,Union Berlin,Mainz 05,2027-04-03
+Bundesliga,29,Dortmund,Schalke 04,2027-04-10
+Bundesliga,29,Gladbach,Leverkusen,2027-04-10
+Bundesliga,29,Hamburger SV,Union Berlin,2027-04-10
+Bundesliga,29,Hoffenheim,Freiburg,2027-04-10
+Bundesliga,29,Köln,Augsburg,2027-04-10
+Bundesliga,29,Mainz 05,RB Leipzig,2027-04-10
+Bundesliga,29,Paderborn 07,Bayern Munich,2027-04-10
+Bundesliga,29,Stuttgart,Elversberg,2027-04-10
+Bundesliga,29,Werder Bremen,Frankfurt,2027-04-10
+Bundesliga,30,Augsburg,Dortmund,2027-04-17
+Bundesliga,30,Bayern Munich,Hoffenheim,2027-04-17
+Bundesliga,30,Elversberg,Paderborn 07,2027-04-17
+Bundesliga,30,Frankfurt,Gladbach,2027-04-17
+Bundesliga,30,Freiburg,Mainz 05,2027-04-17
+Bundesliga,30,Leverkusen,Werder Bremen,2027-04-17
+Bundesliga,30,RB Leipzig,Köln,2027-04-17
+Bundesliga,30,Schalke 04,Hamburger SV,2027-04-17
+Bundesliga,30,Union Berlin,Stuttgart,2027-04-17
+Bundesliga,31,Dortmund,RB Leipzig,2027-04-24
+Bundesliga,31,Frankfurt,Leverkusen,2027-04-24
+Bundesliga,31,Gladbach,Schalke 04,2027-04-24
+Bundesliga,31,Hamburger SV,Elversberg,2027-04-24
+Bundesliga,31,Hoffenheim,Union Berlin,2027-04-24
+Bundesliga,31,Köln,Mainz 05,2027-04-24
+Bundesliga,31,Paderborn 07,Augsburg,2027-04-24
+Bundesliga,31,Stuttgart,Freiburg,2027-04-24
+Bundesliga,31,Werder Bremen,Bayern Munich,2027-04-24
+Bundesliga,32,Augsburg,Stuttgart,2027-05-08
+Bundesliga,32,Bayern Munich,Gladbach,2027-05-08
+Bundesliga,32,Elversberg,Hoffenheim,2027-05-08
+Bundesliga,32,Freiburg,Köln,2027-05-08
+Bundesliga,32,Leverkusen,Hamburger SV,2027-05-08
+Bundesliga,32,Mainz 05,Dortmund,2027-05-08
+Bundesliga,32,RB Leipzig,Paderborn 07,2027-05-08
+Bundesliga,32,Schalke 04,Frankfurt,2027-05-08
+Bundesliga,32,Union Berlin,Werder Bremen,2027-05-08
+Bundesliga,33,Dortmund,Köln,2027-05-15
+Bundesliga,33,Frankfurt,Elversberg,2027-05-15
+Bundesliga,33,Gladbach,Augsburg,2027-05-15
+Bundesliga,33,Hamburger SV,Freiburg,2027-05-15
+Bundesliga,33,Hoffenheim,Mainz 05,2027-05-15
+Bundesliga,33,Leverkusen,Bayern Munich,2027-05-15
+Bundesliga,33,Paderborn 07,Union Berlin,2027-05-15
+Bundesliga,33,Stuttgart,RB Leipzig,2027-05-15
+Bundesliga,33,Werder Bremen,Schalke 04,2027-05-15
+Bundesliga,34,Augsburg,Hamburger SV,2027-05-22
+Bundesliga,34,Bayern Munich,Frankfurt,2027-05-22
+Bundesliga,34,Elversberg,Werder Bremen,2027-05-22
+Bundesliga,34,Freiburg,Dortmund,2027-05-22
+Bundesliga,34,Köln,Paderborn 07,2027-05-22
+Bundesliga,34,Mainz 05,Stuttgart,2027-05-22
+Bundesliga,34,RB Leipzig,Hoffenheim,2027-05-22
+Bundesliga,34,Schalke 04,Leverkusen,2027-05-22
+Bundesliga,34,Union Berlin,Gladbach,2027-05-22
+Ligue 1,1,Marseille,Strasbourg,2026-08-21
+Ligue 1,1,Le Mans,Brest,2026-08-22
+Ligue 1,1,Lens,Auxerre,2026-08-22
+Ligue 1,1,Nice,Lorient,2026-08-22
+Ligue 1,1,Toulouse,Lyon,2026-08-22
+Ligue 1,1,Troyes,Paris FC,2026-08-22
+Ligue 1,1,Angers,Lille,2026-08-23
+Ligue 1,1,Le Havre,Monaco,2026-08-23
+Ligue 1,1,Rennes,Paris SG,2026-08-23
+Ligue 1,2,Lille,Paris SG,2026-08-28
+Ligue 1,2,Auxerre,Angers,2026-08-29
+Ligue 1,2,Brest,Toulouse,2026-08-29
+Ligue 1,2,Lorient,Troyes,2026-08-29
+Ligue 1,2,Lyon,Le Havre,2026-08-29
+Ligue 1,2,Strasbourg,Lens,2026-08-29
+Ligue 1,2,Monaco,Marseille,2026-08-30
+Ligue 1,2,Paris FC,Nice,2026-08-30
+Ligue 1,2,Rennes,Le Mans,2026-08-30
+Ligue 1,3,Toulouse,Lille,2026-09-03
+Ligue 1,3,Lyon,Auxerre,2026-09-04
+Ligue 1,3,Paris SG,Monaco,2026-09-04
+Ligue 1,3,Le Havre,Brest,2026-09-05
+Ligue 1,3,Lens,Lorient,2026-09-05
+Ligue 1,3,Nice,Le Mans,2026-09-05
+Ligue 1,3,Angers,Rennes,2026-09-06
+Ligue 1,3,Marseille,Paris FC,2026-09-06
+Ligue 1,3,Troyes,Strasbourg,2026-09-06
+Ligue 1,4,Rennes,Marseille,2026-09-11
+Ligue 1,4,Auxerre,Nice,2026-09-12
+Ligue 1,4,Le Havre,Angers,2026-09-12
+Ligue 1,4,Lorient,Toulouse,2026-09-12
+Ligue 1,4,Paris FC,Lyon,2026-09-12
+Ligue 1,4,Strasbourg,Monaco,2026-09-12
+Ligue 1,4,Brest,Paris SG,2026-09-13
+Ligue 1,4,Le Mans,Lens,2026-09-13
+Ligue 1,4,Lille,Troyes,2026-09-13
+Ligue 1,5,Monaco,Lens,2026-09-18
+Ligue 1,5,Angers,Troyes,2026-09-19
+Ligue 1,5,Le Mans,Lorient,2026-09-19
+Ligue 1,5,Lyon,Rennes,2026-09-19
+Ligue 1,5,Paris FC,Strasbourg,2026-09-19
+Ligue 1,5,Toulouse,Le Havre,2026-09-19
+Ligue 1,5,Auxerre,Brest,2026-09-20
+Ligue 1,5,Marseille,Paris SG,2026-09-20
+Ligue 1,5,Nice,Lille,2026-09-20
+Ligue 1,6,Lens,Lyon,2026-10-09
+Ligue 1,6,Brest,Angers,2026-10-10
+Ligue 1,6,Lille,Le Havre,2026-10-10
+Ligue 1,6,Lorient,Paris FC,2026-10-10
+Ligue 1,6,Monaco,Toulouse,2026-10-10
+Ligue 1,6,Paris SG,Le Mans,2026-10-10
+Ligue 1,6,Nice,Strasbourg,2026-10-11
+Ligue 1,6,Rennes,Auxerre,2026-10-11
+Ligue 1,6,Troyes,Marseille,2026-10-11
+Ligue 1,7,Le Mans,Toulouse,2026-10-16
+Ligue 1,7,Lille,Brest,2026-10-17
+Ligue 1,7,Strasbourg,Paris SG,2026-10-17
+Ligue 1,7,Troyes,Lens,2026-10-17
+Ligue 1,7,Angers,Marseille,2026-10-18
+Ligue 1,7,Le Havre,Auxerre,2026-10-18
+Ligue 1,7,Lorient,Monaco,2026-10-18
+Ligue 1,7,Lyon,Nice,2026-10-18
+Ligue 1,7,Paris FC,Rennes,2026-10-18
+Ligue 1,8,Brest,Nice,2026-10-23
+Ligue 1,8,Lens,Paris FC,2026-10-24
+Ligue 1,8,Toulouse,Troyes,2026-10-24
+Ligue 1,8,Angers,Lorient,2026-10-25
+Ligue 1,8,Auxerre,Le Mans,2026-10-25
+Ligue 1,8,Marseille,Le Havre,2026-10-25
+Ligue 1,8,Monaco,Lille,2026-10-25
+Ligue 1,8,Paris SG,Lyon,2026-10-25
+Ligue 1,8,Rennes,Strasbourg,2026-10-25
+Ligue 1,9,Le Havre,Paris SG,2026-10-30
+Ligue 1,9,Lille,Lens,2026-10-30
+Ligue 1,9,Lorient,Brest,2026-10-31
+Ligue 1,9,Lyon,Angers,2026-10-31
+Ligue 1,9,Nice,Rennes,2026-10-31
+Ligue 1,9,Troyes,Le Mans,2026-10-31
+Ligue 1,9,Marseille,Toulouse,2026-11-01
+Ligue 1,9,Paris FC,Monaco,2026-11-01
+Ligue 1,9,Strasbourg,Auxerre,2026-11-01
+Ligue 1,10,Toulouse,Strasbourg,2026-11-06
+Ligue 1,10,Auxerre,Paris FC,2026-11-07
+Ligue 1,10,Paris SG,Troyes,2026-11-07
+Ligue 1,10,Angers,Nice,2026-11-08
+Ligue 1,10,Brest,Lyon,2026-11-08
+Ligue 1,10,Le Havre,Lorient,2026-11-08
+Ligue 1,10,Le Mans,Monaco,2026-11-08
+Ligue 1,10,Lens,Marseille,2026-11-08
+Ligue 1,10,Rennes,Lille,2026-11-08
+Ligue 1,11,Troyes,Le Havre,2026-11-20
+Ligue 1,11,Lens,Toulouse,2026-11-21
+Ligue 1,11,Lille,Lyon,2026-11-21
+Ligue 1,11,Monaco,Auxerre,2026-11-21
+Ligue 1,11,Nice,Paris SG,2026-11-21
+Ligue 1,11,Strasbourg,Brest,2026-11-21
+Ligue 1,11,Lorient,Rennes,2026-11-22
+Ligue 1,11,Marseille,Le Mans,2026-11-22
+Ligue 1,11,Paris FC,Angers,2026-11-22
+Ligue 1,12,Brest,Paris FC,2026-11-27
+Ligue 1,12,Angers,Lens,2026-11-28
+Ligue 1,12,Le Havre,Strasbourg,2026-11-28
+Ligue 1,12,Le Mans,Lille,2026-11-28
+Ligue 1,12,Nice,Troyes,2026-11-28
+Ligue 1,12,Paris SG,Lorient,2026-11-28
+Ligue 1,12,Auxerre,Marseille,2026-11-29
+Ligue 1,12,Lyon,Monaco,2026-11-29
+Ligue 1,12,Toulouse,Rennes,2026-11-29
+Ligue 1,13,Lens,Le Havre,2026-12-05
+Ligue 1,13,Lille,Auxerre,2026-12-05
+Ligue 1,13,Marseille,Nice,2026-12-05
+Ligue 1,13,Monaco,Angers,2026-12-05
+Ligue 1,13,Paris FC,Le Mans,2026-12-05
+Ligue 1,13,Rennes,Brest,2026-12-05
+Ligue 1,13,Strasbourg,Lorient,2026-12-05
+Ligue 1,13,Toulouse,Paris SG,2026-12-05
+Ligue 1,13,Troyes,Lyon,2026-12-05
+Ligue 1,14,Angers,Strasbourg,2026-12-12
+Ligue 1,14,Auxerre,Toulouse,2026-12-12
+Ligue 1,14,Brest,Troyes,2026-12-12
+Ligue 1,14,Le Havre,Le Mans,2026-12-12
+Ligue 1,14,Lorient,Lille,2026-12-12
+Ligue 1,14,Nice,Lens,2026-12-12
+Ligue 1,14,Paris SG,Paris FC,2026-12-12
+Ligue 1,14,Rennes,Monaco,2026-12-12
+Ligue 1,14,Lyon,Marseille,2026-12-13
+Ligue 1,15,Brest,Marseille,2027-01-02
+Ligue 1,15,Le Mans,Lyon,2027-01-02
+Ligue 1,15,Lille,Strasbourg,2027-01-02
+Ligue 1,15,Lorient,Auxerre,2027-01-02
+Ligue 1,15,Monaco,Nice,2027-01-02
+Ligue 1,15,Paris FC,Le Havre,2027-01-02
+Ligue 1,15,Toulouse,Angers,2027-01-02
+Ligue 1,15,Troyes,Rennes,2027-01-02
+Ligue 1,15,Lens,Paris SG,2027-01-03
+Ligue 1,16,Angers,Paris SG,2027-01-16
+Ligue 1,16,Auxerre,Troyes,2027-01-16
+Ligue 1,16,Lyon,Lorient,2027-01-16
+Ligue 1,16,Marseille,Lille,2027-01-16
+Ligue 1,16,Monaco,Brest,2027-01-16
+Ligue 1,16,Nice,Le Havre,2027-01-16
+Ligue 1,16,Paris FC,Toulouse,2027-01-16
+Ligue 1,16,Rennes,Lens,2027-01-16
+Ligue 1,16,Strasbourg,Le Mans,2027-01-16
+Ligue 1,17,Le Havre,Rennes,2027-01-23
+Ligue 1,17,Le Mans,Angers,2027-01-23
+Ligue 1,17,Lens,Brest,2027-01-23
+Ligue 1,17,Lille,Paris FC,2027-01-23
+Ligue 1,17,Lorient,Marseille,2027-01-23
+Ligue 1,17,Paris SG,Auxerre,2027-01-23
+Ligue 1,17,Strasbourg,Lyon,2027-01-23
+Ligue 1,17,Toulouse,Nice,2027-01-23
+Ligue 1,17,Troyes,Monaco,2027-01-23
+Ligue 1,18,Angers,Le Havre,2027-01-30
+Ligue 1,18,Brest,Strasbourg,2027-01-30
+Ligue 1,18,Le Mans,Nice,2027-01-30
+Ligue 1,18,Lyon,Lille,2027-01-30
+Ligue 1,18,Marseille,Troyes,2027-01-30
+Ligue 1,18,Monaco,Paris SG,2027-01-30
+Ligue 1,18,Paris FC,Auxerre,2027-01-30
+Ligue 1,18,Rennes,Lorient,2027-01-30
+Ligue 1,18,Toulouse,Lens,2027-01-30
+Ligue 1,19,Auxerre,Monaco,2027-02-06
+Ligue 1,19,Le Havre,Toulouse,2027-02-06
+Ligue 1,19,Lens,Angers,2027-02-06
+Ligue 1,19,Lorient,Le Mans,2027-02-06
+Ligue 1,19,Nice,Brest,2027-02-06
+Ligue 1,19,Rennes,Lyon,2027-02-06
+Ligue 1,19,Strasbourg,Paris FC,2027-02-06
+Ligue 1,19,Troyes,Lille,2027-02-06
+Ligue 1,19,Paris SG,Marseille,2027-02-07
+Ligue 1,20,Auxerre,Strasbourg,2027-02-13
+Ligue 1,20,Brest,Rennes,2027-02-13
+Ligue 1,20,Le Mans,Paris SG,2027-02-13
+Ligue 1,20,Lille,Nice,2027-02-13
+Ligue 1,20,Lorient,Le Havre,2027-02-13
+Ligue 1,20,Lyon,Lens,2027-02-13
+Ligue 1,20,Marseille,Angers,2027-02-13
+Ligue 1,20,Paris FC,Troyes,2027-02-13
+Ligue 1,20,Toulouse,Monaco,2027-02-13
+Ligue 1,21,Angers,Paris FC,2027-02-20
+Ligue 1,21,Le Havre,Lyon,2027-02-20
+Ligue 1,21,Lens,Troyes,2027-02-20
+Ligue 1,21,Lille,Lorient,2027-02-20
+Ligue 1,21,Monaco,Le Mans,2027-02-20
+Ligue 1,21,Nice,Auxerre,2027-02-20
+Ligue 1,21,Paris SG,Brest,2027-02-20
+Ligue 1,21,Rennes,Toulouse,2027-02-20
+Ligue 1,21,Strasbourg,Marseille,2027-02-20
+Ligue 1,22,Auxerre,Lille,2027-02-27
+Ligue 1,22,Brest,Monaco,2027-02-27
+Ligue 1,22,Le Mans,Paris FC,2027-02-27
+Ligue 1,22,Lorient,Angers,2027-02-27
+Ligue 1,22,Lyon,Toulouse,2027-02-27
+Ligue 1,22,Marseille,Rennes,2027-02-27
+Ligue 1,22,Strasbourg,Le Havre,2027-02-27
+Ligue 1,22,Troyes,Nice,2027-02-27
+Ligue 1,22,Paris SG,Lens,2027-02-28
+Ligue 1,23,Angers,Auxerre,2027-03-06
+Ligue 1,23,Le Havre,Nice,2027-03-06
+Ligue 1,23,Lens,Strasbourg,2027-03-06
+Ligue 1,23,Lille,Marseille,2027-03-06
+Ligue 1,23,Monaco,Lyon,2027-03-06
+Ligue 1,23,Paris FC,Brest,2027-03-06
+Ligue 1,23,Paris SG,Rennes,2027-03-06
+Ligue 1,23,Toulouse,Le Mans,2027-03-06
+Ligue 1,23,Troyes,Lorient,2027-03-06
+Ligue 1,24,Auxerre,Paris SG,2027-03-13
+Ligue 1,24,Brest,Lille,2027-03-13
+Ligue 1,24,Le Havre,Lens,2027-03-13
+Ligue 1,24,Le Mans,Rennes,2027-03-13
+Ligue 1,24,Lyon,Troyes,2027-03-13
+Ligue 1,24,Marseille,Monaco,2027-03-13
+Ligue 1,24,Nice,Toulouse,2027-03-13
+Ligue 1,24,Paris FC,Lorient,2027-03-13
+Ligue 1,24,Strasbourg,Angers,2027-03-13
+Ligue 1,25,Angers,Le Mans,2027-03-20
+Ligue 1,25,Lens,Lille,2027-03-20
+Ligue 1,25,Lorient,Nice,2027-03-20
+Ligue 1,25,Monaco,Le Havre,2027-03-20
+Ligue 1,25,Paris SG,Strasbourg,2027-03-20
+Ligue 1,25,Rennes,Paris FC,2027-03-20
+Ligue 1,25,Toulouse,Brest,2027-03-20
+Ligue 1,25,Troyes,Auxerre,2027-03-20
+Ligue 1,25,Marseille,Lyon,2027-03-21
+Ligue 1,26,Angers,Monaco,2027-04-03
+Ligue 1,26,Auxerre,Lens,2027-04-03
+Ligue 1,26,Brest,Lorient,2027-04-03
+Ligue 1,26,Le Havre,Troyes,2027-04-03
+Ligue 1,26,Le Mans,Marseille,2027-04-03
+Ligue 1,26,Lille,Rennes,2027-04-03
+Ligue 1,26,Nice,Lyon,2027-04-03
+Ligue 1,26,Paris FC,Paris SG,2027-04-03
+Ligue 1,26,Strasbourg,Toulouse,2027-04-03
+Ligue 1,27,Le Mans,Auxerre,2027-04-10
+Ligue 1,27,Lille,Toulouse,2027-04-10
+Ligue 1,27,Lorient,Lens,2027-04-10
+Ligue 1,27,Lyon,Strasbourg,2027-04-10
+Ligue 1,27,Marseille,Brest,2027-04-10
+Ligue 1,27,Monaco,Rennes,2027-04-10
+Ligue 1,27,Nice,Paris FC,2027-04-10
+Ligue 1,27,Paris SG,Le Havre,2027-04-10
+Ligue 1,27,Troyes,Angers,2027-04-10
+Ligue 1,28,Angers,Lyon,2027-04-17
+Ligue 1,28,Auxerre,Lorient,2027-04-17
+Ligue 1,28,Brest,Le Mans,2027-04-17
+Ligue 1,28,Le Havre,Marseille,2027-04-17
+Ligue 1,28,Lens,Nice,2027-04-17
+Ligue 1,28,Monaco,Strasbourg,2027-04-17
+Ligue 1,28,Paris SG,Lille,2027-04-17
+Ligue 1,28,Rennes,Troyes,2027-04-17
+Ligue 1,28,Toulouse,Paris FC,2027-04-17
+Ligue 1,29,Le Mans,Le Havre,2027-04-24
+Ligue 1,29,Lille,Monaco,2027-04-24
+Ligue 1,29,Lorient,Paris SG,2027-04-24
+Ligue 1,29,Lyon,Brest,2027-04-24
+Ligue 1,29,Marseille,Auxerre,2027-04-24
+Ligue 1,29,Nice,Angers,2027-04-24
+Ligue 1,29,Paris FC,Lens,2027-04-24
+Ligue 1,29,Strasbourg,Rennes,2027-04-24
+Ligue 1,29,Troyes,Toulouse,2027-04-24
+Ligue 1,30,Auxerre,Lyon,2027-05-01
+Ligue 1,30,Le Havre,Paris FC,2027-05-01
+Ligue 1,30,Lens,Le Mans,2027-05-01
+Ligue 1,30,Monaco,Lorient,2027-05-01
+Ligue 1,30,Paris SG,Angers,2027-05-01
+Ligue 1,30,Rennes,Nice,2027-05-01
+Ligue 1,30,Strasbourg,Lille,2027-05-01
+Ligue 1,30,Toulouse,Marseille,2027-05-01
+Ligue 1,30,Troyes,Brest,2027-05-01
+Ligue 1,31,Angers,Toulouse,2027-05-08
+Ligue 1,31,Brest,Auxerre,2027-05-08
+Ligue 1,31,Le Mans,Troyes,2027-05-08
+Ligue 1,31,Lens,Monaco,2027-05-08
+Ligue 1,31,Lorient,Strasbourg,2027-05-08
+Ligue 1,31,Nice,Marseille,2027-05-08
+Ligue 1,31,Paris FC,Lille,2027-05-08
+Ligue 1,31,Rennes,Le Havre,2027-05-08
+Ligue 1,31,Lyon,Paris SG,2027-05-09
+Ligue 1,32,Auxerre,Rennes,2027-05-16
+Ligue 1,32,Brest,Le Havre,2027-05-16
+Ligue 1,32,Lille,Angers,2027-05-16
+Ligue 1,32,Lyon,Le Mans,2027-05-16
+Ligue 1,32,Marseille,Lens,2027-05-16
+Ligue 1,32,Monaco,Paris FC,2027-05-16
+Ligue 1,32,Paris SG,Nice,2027-05-16
+Ligue 1,32,Strasbourg,Troyes,2027-05-16
+Ligue 1,32,Toulouse,Lorient,2027-05-16
+Ligue 1,33,Angers,Brest,2027-05-22
+Ligue 1,33,Le Havre,Lille,2027-05-22
+Ligue 1,33,Le Mans,Strasbourg,2027-05-22
+Ligue 1,33,Lens,Rennes,2027-05-22
+Ligue 1,33,Lorient,Lyon,2027-05-22
+Ligue 1,33,Nice,Monaco,2027-05-22
+Ligue 1,33,Paris FC,Marseille,2027-05-22
+Ligue 1,33,Toulouse,Auxerre,2027-05-22
+Ligue 1,33,Troyes,Paris SG,2027-05-22
+Ligue 1,34,Auxerre,Le Havre,2027-05-29
+Ligue 1,34,Brest,Lens,2027-05-29
+Ligue 1,34,Lille,Le Mans,2027-05-29
+Ligue 1,34,Lyon,Paris FC,2027-05-29
+Ligue 1,34,Marseille,Lorient,2027-05-29
+Ligue 1,34,Monaco,Troyes,2027-05-29
+Ligue 1,34,Paris SG,Toulouse,2027-05-29
+Ligue 1,34,Rennes,Angers,2027-05-29
+Ligue 1,34,Strasbourg,Nice,2027-05-29
