@@ -11,6 +11,52 @@ import streamlit as st
 from team_stats import calcular_stats_equipos, calcular_forma_reciente, calcular_stats_radar
 
 
+# Colores de camiseta/escudo real por club (Premier League). Los que en su
+# color principal son negro/blanco puro se ajustaron levemente para que el
+# punto no se pierda contra el fondo oscuro del gráfico (ej. Fulham, Newcastle,
+# Tottenham) — el resto es el color oficial del club.
+COLORES_PREMIER_LEAGUE = {
+    "Arsenal": "#EF0107",
+    "Aston Villa": "#670E36",
+    "Bournemouth": "#DA291C",
+    "Brentford": "#E30613",
+    "Brighton": "#0057B8",
+    "Chelsea": "#034694",
+    "Coventry": "#78D0F7",
+    "Crystal Palace": "#1B458F",
+    "Everton": "#003399",
+    "Forest": "#DD0000",
+    "Fulham": "#F2F2F2",       # blanco/negro real -> aclarado para visibilidad
+    "Hull": "#F5A623",
+    "Ipswich": "#0044A9",
+    "Leeds": "#FFCD00",
+    "Liverpool": "#C8102E",
+    "Manchester City": "#6CABDD",
+    "Manchester United": "#DA291C",
+    "Newcastle": "#D0D0D0",    # blanco/negro real -> aclarado para visibilidad
+    "Sunderland": "#EB172B",
+    "Tottenham": "#132257",
+}
+
+
+def construir_color_equipos(equipos_liga, liga_seleccionada):
+    """Paleta de color por equipo, compartida por todos los gráficos de Stats.
+    Premier League usa los colores reales de club; el resto sigue con la
+    paleta categórica genérica (no tenemos colores de club cargados todavía
+    para las otras 4 ligas)."""
+    if liga_seleccionada == "Premier League" and all(e in COLORES_PREMIER_LEAGUE for e in equipos_liga):
+        return alt.Color(
+            "equipo:N", title="Team",
+            scale=alt.Scale(domain=equipos_liga, range=[COLORES_PREMIER_LEAGUE[e] for e in equipos_liga]),
+            legend=alt.Legend(orient="right", columns=1, labelFontSize=11, symbolSize=90),
+        )
+    return alt.Color(
+        "equipo:N", title="Team",
+        scale=alt.Scale(domain=equipos_liga, scheme="category20"),
+        legend=alt.Legend(orient="right", columns=1, labelFontSize=11, symbolSize=90),
+    )
+
+
 def top5_chart(stats_df, metric, ascending=False, titulo=None):
     """Ranked #/Team/Value list with the top 5 of a metric, sorted."""
     datos = stats_df[["equipo", metric]].sort_values(metric, ascending=ascending).head(5).reset_index(drop=True)
@@ -197,12 +243,8 @@ def render(partidos_temporada, equipos_liga, liga_seleccionada):
 
     # ---------------------------------------------------------------- charts
     # fixed domain -> every team keeps the SAME color across every chart,
-    # whether all 20 show up or not (category20 assigns by position in the domain)
-    color_equipos = alt.Color(
-        "equipo:N", title="Team",
-        scale=alt.Scale(domain=equipos_liga, scheme="category20"),
-        legend=alt.Legend(orient="right", columns=1, labelFontSize=11, symbolSize=90),
-    )
+    # whether all 20 show up or not. Premier League usa colores de club reales.
+    color_equipos = construir_color_equipos(equipos_liga, liga_seleccionada)
 
     if seccion == "Attack":
         st.divider()
