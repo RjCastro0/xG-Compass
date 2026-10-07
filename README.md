@@ -4,6 +4,7 @@ Football Match &amp; Standings Predictions
 # Football Match & Standings Prediction Dashboard
 
 Dashboard en Streamlit que predice partidos, calcula la dificultad de los próximos fixtures y proyecta la tabla de posiciones (Monte Carlo) para 5 ligas europeas, a partir de un modelo híbrido de goles (Poisson + Dixon-Coles).
+Enlace de la aplicacion: https://xgcompass.streamlit.app/ 
 
 **Ligas soportadas:** La Liga, Premier League, Serie A, Bundesliga, Ligue 1.
 
