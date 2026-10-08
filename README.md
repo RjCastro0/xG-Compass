@@ -3,7 +3,7 @@ Football Match &amp; Standings Predictions
 
 # Football Match & Standings Prediction Dashboard
 
-Dashboard en Streamlit que predice partidos, calcula la dificultad de los próximos fixtures y proyecta la tabla de posiciones (Monte Carlo) para 5 ligas europeas, a partir de un modelo híbrido de goles (Poisson + Dixon-Coles).
+Dashboard en Streamlit que predice partidos, calcula la dificultad de los próximos fixtures y proyecta la tabla de posiciones (Monte Carlo) para 5 ligas europeas, a partir de un modelo híbrido de goles y xG (Dixon-Coles).
 Enlace de la aplicacion: https://xgcompass.streamlit.app/ 
 
 **Ligas soportadas:** La Liga, Premier League, Serie A, Bundesliga, Ligue 1.
@@ -67,13 +67,6 @@ partidos.csv                    partidos de la temporada 2026-27, todas las liga
 calendario_partidos.csv         fixture completo por liga (jornada + fecha)
 all_time_df_actualizado.csv     histórico 2000-2026, multi-liga
 dificultad_snapshot.csv         se genera solo (guarda el índice de dificultad anterior)
-```
-
-**Herramientas:**
-
-```
-agregar_datos.ipynb   notebook para agregar temporadas históricas o calendarios nuevos
-requirements.txt
 ```
 
 ## Instalación y uso
