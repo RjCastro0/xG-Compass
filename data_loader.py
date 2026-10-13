@@ -37,7 +37,7 @@ def cargar_partidos_actuales():
     out = pd.DataFrame({
         "League": p["liga"],
         "Season": "2026-2027",
-        "Date": pd.to_datetime(p["fecha"]),
+        "Date": pd.to_datetime(p["fecha"], format="mixed", utc=True).dt.tz_localize(None),
         "Home": p["equipo_local"],
         "Away": p["equipo_visitante"],
         "home_goals": p["goles_local"].astype(int),
